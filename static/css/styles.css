@@ -177,6 +177,48 @@ a:hover {
   text-decoration: underline;
 }
 
+/* ---- Share buttons ---- */
+.article-share {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-top: 40px;
+  padding-top: 24px;
+  border-top: 1px solid var(--line);
+}
+
+.article-share-label {
+  font-size: 0.875rem;
+  color: var(--muted);
+  margin-right: 4px;
+}
+
+.article-share-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  border: 1px solid var(--line);
+  background: none;
+  color: var(--muted);
+  cursor: pointer;
+  text-decoration: none;
+  transition: color 0.15s, border-color 0.15s;
+}
+
+.article-share-btn:hover {
+  color: var(--text);
+  border-color: var(--text);
+  text-decoration: none;
+}
+
+.article-share-copy.copied {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
 /* ---- Article navigation ---- */
 .article-nav {
   display: flex;
