@@ -16,6 +16,7 @@ slugify() {
   printf '%s' "$input" \
     | tr '[:upper:]' '[:lower:]' \
     | sed -E 's/\.[Pp][Dd][Ff]$//' \
+    | sed -E 's/\.docx//g' \
     | sed -E 's/[^a-z0-9]+/-/g' \
     | sed -E 's/^-+|-+$//g'
 }
@@ -57,6 +58,7 @@ while IFS= read -r -d '' pdf_path; do
   fi
 
   title="${file_name%.pdf}"
+  title="${title%.docx}"
   slug="$(slugify "$file_name")"
   encoded_name="$(url_encode "$file_name")"
 
