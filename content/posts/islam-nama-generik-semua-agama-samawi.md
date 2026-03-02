@@ -1,7 +1,7 @@
 +++
 title = "ISLAM, NAMA GENERIK SEMUA AGAMA SAMAWI"
 author = "Haydar Yahya"
-date = "2026-03-02"
+date = "2018-02-15"
 pdf = "/pdf/ISLAM%2C%20NAMA%20GENERIK%20SEMUA%20AGAMA%20SAMAWI.pdf"
 excerpt = "01.59, February 15 - 2018 Islam, Nama Generik Semua Agama Samawi ( Tinjauan Dari Perspektif Al-Qur'an, Bukan tinjauan Fiqih) (Seyogyanya para pemeluk agama…"
 +++

@@ -1,7 +1,7 @@
 +++
 title = "Bangsa Bahasa Nasab Dalam Islam"
 author = "Haydar Yahya"
-date = "2026-03-02"
+date = "2022-01-01"
 pdf = "/pdf/Bangsa%20Bahasa%20Nasab%20Dalam%20Islam.pdf"
 excerpt = "Bangsa, Bahasa dan Nasab Akhir-akhir ini issue bangsa, bahasa, dan nasab, sempat menyibukkan banyak orang. Siapa yang unggul ? Konon, bahasa Arab, bangsa Arab…"
 +++

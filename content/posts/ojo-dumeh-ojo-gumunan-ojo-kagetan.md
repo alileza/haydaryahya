@@ -1,7 +1,7 @@
 +++
 title = "Ojo Dumeh Ojo Gumunan Ojo Kagetan"
 author = "Haydar Yahya"
-date = "2026-03-02"
+date = "2017-01-01"
 pdf = "/pdf/Ojo%20Dumeh%20Ojo%20Gumunan%20Ojo%20Kagetan.pdf"
 excerpt = "Ojo Dumeh, Ojo Gumunan, Ojo Kagetan... Bagi yang sering bingung atau merasa sok bener,tanpa ilmu memadai,atas adanya perbedaan dalam berbagai cabang ajaran…"
 +++

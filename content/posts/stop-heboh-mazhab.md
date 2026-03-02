@@ -1,7 +1,7 @@
 +++
 title = "Stop Heboh Mazhab"
 author = "Haydar Yahya"
-date = "2026-03-02"
+date = "2015-08-17"
 pdf = "/pdf/Stop%20Heboh%20Mazhab.pdf"
 excerpt = "Bagi yang tertarik memperluas wawasan.. Moga bermanfaat catatan dibawah ini : #SAVE ISLAM Mengenang 70 thn Kemerdekaan Indonesia, 17Agustus 2015 POTRET UMMAT…"
 +++

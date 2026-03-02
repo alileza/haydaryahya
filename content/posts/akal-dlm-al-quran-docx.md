@@ -1,7 +1,7 @@
 +++
 title = "AKAL dlm Al Quran.docx"
 author = "Haydar Yahya"
-date = "2026-03-02"
+date = "2013-05-01"
 pdf = "/pdf/AKAL%20dlm%20Al%20Quran.docx.pdf"
 excerpt = "catatan Al ‘aql menurut Al Munjid : \"Nurun ruhaniyyun bihi tudriku an nafs ma la tudrikuhu bil hawas, wa qod summiya al’aqlu aqlan li annahu ya’qilu shohibahu…"
 +++
