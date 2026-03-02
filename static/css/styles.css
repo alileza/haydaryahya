@@ -35,13 +35,22 @@ body {
 }
 
 .navbar-home {
-  font-size: 0.875rem;
+  margin-left: auto;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 0.8125rem;
   color: var(--muted);
   text-decoration: none;
 }
 
 .navbar-home:hover {
   color: var(--accent);
+  text-decoration: none;
+}
+
+.navbar-home svg {
+  flex-shrink: 0;
 }
 
 .navbar-brand {
