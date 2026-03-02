@@ -17,6 +17,42 @@
     <a href="{{ . }}">Buka PDF asli</a>
   </footer>
   {{ end }}
+
+  {{ $pages := (where .Site.RegularPages "Section" "posts").ByDate.Reverse }}
+  {{ $prev := false }}
+  {{ $next := false }}
+  {{ $foundCurrent := false }}
+  {{ $lastPage := false }}
+  {{ range $pages }}
+    {{ if $foundCurrent }}
+      {{ if not $next }}
+        {{ $next = . }}
+      {{ end }}
+    {{ end }}
+    {{ if eq .RelPermalink $.RelPermalink }}
+      {{ $foundCurrent = true }}
+      {{ $prev = $lastPage }}
+    {{ end }}
+    {{ $lastPage = . }}
+  {{ end }}
+  {{ if or $prev $next }}
+  <nav class="article-nav">
+    {{ with $prev }}
+    <a href="{{ .RelPermalink }}" class="article-nav-item article-nav-prev">
+      <span class="article-nav-label">Artikel sebelumnya</span>
+      <span class="article-nav-title">{{ .Title }}</span>
+    </a>
+    {{ else }}
+    <div class="article-nav-item"></div>
+    {{ end }}
+    {{ with $next }}
+    <a href="{{ .RelPermalink }}" class="article-nav-item article-nav-next">
+      <span class="article-nav-label">Artikel berikutnya</span>
+      <span class="article-nav-title">{{ .Title }}</span>
+    </a>
+    {{ end }}
+  </nav>
+  {{ end }}
 </article>
 
 <div class="ref-popup-overlay" id="refOverlay">

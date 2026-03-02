@@ -99,6 +99,13 @@ for raw in text.split("\n"):
         continue
     if line.startswith("Total output lines:"):
         continue
+    # Remove decorative separator lines (=====, ------, etc.)
+    if re.fullmatch(r"[=\-_*]{3,}.*", line):
+        clean_lines.append("")
+        continue
+    # Strip leading/trailing separator runs from lines
+    line = re.sub(r"^[=\-]{3,}\s*", "", line)
+    line = re.sub(r"\s*[=\-]{3,}$", "", line)
     clean_lines.append(line)
 
 text = "\n".join(clean_lines)

@@ -137,4 +137,4 @@ khoiru ummah !? Agar bisa menjadi teladan nyata dalam hidup dan bukan sekedar in
 
 Saya rasakan, Rasulullah saw sedang mengamati kita semua dari dikejauhan, merunduk penuh luka, duka yang sangat dalam, trenyuh, air matanya yang suci bercucuran dan berkata : ‫وَ قَالَ ٱلرَّ سُولُ ٰيَ رَ بِّ ِإنَّ قَ ْومِى ٱتَّ خَ ذُ وا۟ هٰ َ ذَ ا ٱلْقُرْ ءَ انَ مَ هْ جُورً ا‬ (:”Berkata Rasulullah, ya Rabbi, Sesungguhnya umatku telah berketetapan bahwa Qur’an ini sebagai sesuatu yang layak ditinggalkan.”) Al quran surat al Furqon ayat 30.
 
-Ya Rasulallaaah...hadirlah ditengah ummatmu ini...sekali lagi.....sholawatullah alaihi wa alih... ‫وهللا اعلم بالصواب‬ Wallahu a'lam. haydar yahya, ===============
+Ya Rasulallaaah...hadirlah ditengah ummatmu ini...sekali lagi.....sholawatullah alaihi wa alih... ‫وهللا اعلم بالصواب‬ Wallahu a'lam. haydar yahya,

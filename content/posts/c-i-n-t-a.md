@@ -47,6 +47,4 @@ Begitulah cinta berperan dalam kehidupan dan kematian. Zakaria, Ibrahim, Isma’
 
 Sebagian mereka dikenal dan dicatat sejarah. Dan lebih banyak lagi yang diam-diam sendiri menikmati kebahagiaan perjalanan cintanya. Mereka adalah murid, pengikut setia, pencinta sejati, pewaris Rasulullah Muhammad sholawat Allah atasnya dan Ahlul Baitnya yang suci. “Kamu senantiasa akan bersama dengan kecintaanmu”. Begitu sabda Nabi.
 
-Semoga kita diridhoi dirahmati dan termasuk salah satu diantaranya. Catatan : Terjemahan ayat alquran yang ada dalam catatan kecil ini tidak tekstual kata perkata.Melainkan terjemahan bebas, dengan tetap menjaga inti dari makna ayat. *Sesungguhnya Allah Maha indah dan mencintai keindahan” ( HR.
-
-Muslim dari Ibnu Mas’ûd ).⁠ (Dari Catatan HY,January 2020) ========
+Semoga kita diridhoi dirahmati dan termasuk salah satu diantaranya. Catatan : Terjemahan ayat alquran yang ada dalam catatan kecil ini tidak tekstual kata perkata.Melainkan terjemahan bebas, dengan tetap menjaga inti dari makna ayat. *Sesungguhnya Allah Maha indah dan mencintai keindahan” ( HR. Muslim dari Ibnu Mas’ûd ).⁠ (Dari Catatan HY,January 2020)

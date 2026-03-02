@@ -47,6 +47,4 @@ Terlepas dari adanya perbedaan interpretasi tentang hadits-hadits itu, bagi penu
 
 Pengakuan Imam ‘Ali ‘Alaihis-Salam :”Aku mengikuti Rasulullah, seperti anak unta mengikuti induknya”. :“Aku tidak memiliki ilmu terkait sesuatu apapun, kecuali sampai Rasulullah Saw mengajarkannya padaku”.
 
-Berbeda dengan para Sahabat Nabi pada umumnya, ‘Ali ‘As tidak pernah mengenal ajaran agama, kepercayaan apapun sebelumnya, kecuali yang diajarkan Rasulullah Saw. Begitulah sosok Imam 'Ali 'Alaihis-Salam. Allah telah menetapkan kehendakNya. Alam semesta tak mampu mengingkarinya.
-
-Keduanya, ibarat dua buah, dari pohon yang satu (Dari Catatan HY Januari 2017) =========
+Berbeda dengan para Sahabat Nabi pada umumnya, ‘Ali ‘As tidak pernah mengenal ajaran agama, kepercayaan apapun sebelumnya, kecuali yang diajarkan Rasulullah Saw. Begitulah sosok Imam 'Ali 'Alaihis-Salam. Allah telah menetapkan kehendakNya. Alam semesta tak mampu mengingkarinya. Keduanya, ibarat dua buah, dari pohon yang satu (Dari Catatan HY Januari 2017)

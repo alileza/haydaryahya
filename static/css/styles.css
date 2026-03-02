@@ -177,6 +177,49 @@ a:hover {
   text-decoration: underline;
 }
 
+/* ---- Article navigation ---- */
+.article-nav {
+  display: flex;
+  gap: 24px;
+  margin-top: 48px;
+  padding-top: 32px;
+  border-top: 1px solid var(--line);
+}
+
+.article-nav-item {
+  flex: 1;
+  text-decoration: none;
+  color: inherit;
+  min-width: 0;
+}
+
+.article-nav-item:hover {
+  text-decoration: none;
+}
+
+.article-nav-item:hover .article-nav-title {
+  color: var(--accent);
+}
+
+.article-nav-next {
+  text-align: right;
+}
+
+.article-nav-label {
+  display: block;
+  font-size: 0.8125rem;
+  color: var(--muted);
+  margin-bottom: 4px;
+}
+
+.article-nav-title {
+  display: block;
+  font-weight: 600;
+  font-size: 1rem;
+  line-height: 1.4;
+  color: var(--text);
+}
+
 /* ---- Reference popups ---- */
 .ref-link {
   color: var(--accent);

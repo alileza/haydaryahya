@@ -15,9 +15,9 @@ Salah satunya adalah penjelasan makna al’aql yang terdapat dalam Al Munjid dia
 
 Sementara makna akal menurut Kamus Besar Bahasa Indonesia adalah merupakan daya pikir yang bisa kemana saja, termasuk misalnya dicontohkan “penipu tidak akan kekurangan akal” artinya menggunakan akal untuk berbuat buruk.
 
-Meski juga ada contoh “Makhluk Tuhan yang mempunyai akal adalah manusia” juga terdapat kata “akal-akalan”, “mengakali”, “akal bulus” dstnya... ====== Meski diketahui bahwa kata akal dalam bahasa Indonesia berasal dari bahasa Arab al’aql. Akan tetapi dalam perkembangan bahasa Indonesia, arti akal telah sangat jauh berbeda.
+Meski juga ada contoh “Makhluk Tuhan yang mempunyai akal adalah manusia” juga terdapat kata “akal-akalan”, “mengakali”, “akal bulus” dstnya...
 
-===========
+Meski diketahui bahwa kata akal dalam bahasa Indonesia berasal dari bahasa Arab al’aql. Akan tetapi dalam perkembangan bahasa Indonesia, arti akal telah sangat jauh berbeda.
 
 Al ‘Aql dalam Al Quran (Berbeda dengan Akal seperti yang dimengerti kebanyakan orang) Tidak ada ajaran, doktrin, ideologi, agama yang memberi tempat begitu mulya dan adil kepada al ‘aql seperti al quran al kariem.
 
@@ -47,4 +47,4 @@ Al’aql sejak penciptaannya, diperuntukkan bagi manusia sebagai khalifah Allah,
 
 Jadilah beriman kepada Allah swt berarti sikap pasrah istislam dan perbuatan yang konsisten istiqomah menundukkan semua indera dan anggota tubuh yang dimiliki manusia kepada tuntunan al’aql. Bagaimana bila ada orang memilih jalan lain, menyimpang atau bahkan bertolak belakang justru katanya setelah ia menggunakan akalnya ?!
 
-Inilah bahan renungan kajian kita semua.... Wallahu a’lamu bish-showab.. ======Catatan Haydar Yahya Mei 2013=====
+Inilah bahan renungan kajian kita semua.... Wallahu a’lamu bish-showab..
