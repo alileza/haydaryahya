@@ -4,6 +4,7 @@ author = "Haydar Yahya"
 date = "2026-03-02"
 pdf = "/pdf/Hanya%20Tuhankah%20Yang%20Berpuasa%20Ramadhan.docx.pdf"
 excerpt = "Renungan Ramadhan Kariem Hanya Tuhan Kah Yang Berpuasa Ramadhan !? Seruan Iklan Telah Mengalahkan Seruan Tuhan.. Bukan hanya Islam mengajarkan amalan ibadah…"
+readingTime = 5
 +++
 
 Renungan Ramadhan Kariem

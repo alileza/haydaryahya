@@ -137,16 +137,20 @@ for block in blocks:
 
   cp "$pdf_path" "$STATIC_PDF_DIR/$file_name"
 
-  excerpt="$(printf '%s' "$body_markdown" | python3 -c '
-import sys
+  read_stats="$(printf '%s' "$body_markdown" | python3 -c '
+import sys, math
 lines = [l.strip() for l in sys.stdin if l.strip()]
-text = " ".join(lines[:3])[:160].strip()
-if len(text) > 0:
-    i = text.rfind(" ")
-    if i > 0 and len(" ".join(lines[:3])) > 160:
-        text = text[:i] + "\u2026"
-print(text)
+text = " ".join(lines)
+excerpt = " ".join(lines[:3])[:160].strip()
+idx = excerpt.rfind(" ")
+if idx > 0 and len(" ".join(lines[:3])) > 160:
+    excerpt = excerpt[:idx] + "\u2026"
+words = len(text.split())
+mins = max(1, math.ceil(words / 265))
+print(f"{excerpt}\t{mins}")
 ')"
+  excerpt="$(printf '%s' "$read_stats" | cut -f1)"
+  read_min="$(printf '%s' "$read_stats" | cut -f2)"
 
   cat > "$POSTS_DIR/$slug.md" <<POST_MD
 +++
@@ -155,6 +159,7 @@ author = "$(escape_toml "$author_name")"
 date = "$(escape_toml "$authored_date")"
 pdf = "/pdf/${encoded_name}"
 excerpt = "$(escape_toml "$excerpt")"
+readingTime = $read_min
 +++
 
 ${body_markdown}

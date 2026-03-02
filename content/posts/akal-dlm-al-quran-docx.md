@@ -4,6 +4,7 @@ author = "Haydar Yahya"
 date = "2013-05-01"
 pdf = "/pdf/AKAL%20dlm%20Al%20Quran.docx.pdf"
 excerpt = "catatan Al ‘aql menurut Al Munjid : \"Nurun ruhaniyyun bihi tudriku an nafs ma la tudrikuhu bil hawas, wa qod summiya al’aqlu aqlan li annahu ya’qilu shohibahu…"
+readingTime = 3
 +++
 
 catatan Al ‘aql menurut Al Munjid : "Nurun ruhaniyyun bihi tudriku an nafs ma la tudrikuhu bil hawas, wa qod summiya al’aqlu aqlan li annahu ya’qilu shohibahu ‘anit-twarrathi fil mahalik ay yahbisuhu" “Nur cahaya ruhani yang dimiliki seseorang yang dengannya dapat menjangkau anafs (sesuatu yang metafisis/abstrak) yang tidak dapat dijangkau dengan indera yang lain.

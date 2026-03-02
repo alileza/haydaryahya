@@ -4,6 +4,7 @@ author = "Haydar Yahya"
 date = "2017-01-01"
 pdf = "/pdf/Rasulullah%20Muhammad%20saw%20dan%20Imam%20Ali%20as.docx.pdf"
 excerpt = "Rasulullah Muhammad Shallallahu’Alaihi wa-Alihi wa-Sallam dan Imam ‘Ali bin Abi-Thalib ‘Alahis-Salam Rasulullah Shallallahu ‘Alaihi wa-Alihi wa-Sallam dan…"
+readingTime = 3
 +++
 
 Rasulullah Muhammad Shallallahu’Alaihi wa-Alihi wa-Sallam dan Imam ‘Ali bin Abi-Thalib ‘Alahis-Salam

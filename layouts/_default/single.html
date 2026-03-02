@@ -4,7 +4,7 @@
     <h1>{{ .Title }}</h1>
     <div class="byline">
       <span class="byline-author">{{ .Params.author }}</span>
-      <span class="byline-date">{{ .Date.Format "Jan 2, 2006" }}</span>
+      <span class="byline-date">{{ .Date.Format "Jan 2, 2006" }}{{ with .Params.readingTime }} · {{ . }} min read{{ end }}</span>
     </div>
   </header>
 
