@@ -63,7 +63,9 @@ Surat Al-Qashas 28 : 59
 
 8) Surat Al-Baqarah 2 : 136
 
-َ َ‫قُولُوا آمَ َّنا ِباهَّلل ِ وَ مَ ا ُأ ْن ِزلَ ِإ َليْ َنا وَ مَ ا ُأ ْن ِزلَ ِإ َل ٰى ِإبْرَ اهِيمَ وَ ِإسْ مَاعِ يلَ وَ ِإسْ ح‬ ِ‫اق وَ يَ عْ قُوبَ وَ اَأْلسْ بَاط‬ ُ‫وَ مَ ا ُأوتِيَ مُوسَ ىٰ وَ عِ يسَ ىٰ وَ مَ ا ُأوتِيَ النَّ ِبيُّونَ مِ نْ رَ ب ِِّهمْ اَل نُفَرِّ قُ بَ يْنَ َأحَ دٍ مِ ْنهُمْ وَ نَ حْ نُ لَه‬ َ‫مُسْ لِمُون‬ Katakanlah (hai orang-orang mukmin): "Kami beriman kepada Allah dan apa yang diturunkan kepada kami, dan apa yang diturunkan kepada Ibrahim, Isma'il, Ishaq, Ya'qub dan anak cucunya, dan apa yang diberikan kepada Musa dan Isa serta apa yang diberikan kepada nabi-nabi dari Tuhannya. Kami tidak membeda-bedakan seorangpun diantara mereka dan kami hanya tunduk patuh kepada-Nya".
+َ َ‫قُولُوا آمَ َّنا ِباهَّلل ِ وَ مَ ا ُأ ْن ِزلَ ِإ َليْ َنا وَ مَ ا ُأ ْن ِزلَ ِإ َل ٰى ِإبْرَ اهِيمَ وَ ِإسْ مَاعِ يلَ وَ ِإسْ ح‬ ِ‫اق وَ يَ عْ قُوبَ وَ اَأْلسْ بَاط‬ ُ‫وَ مَ ا ُأوتِيَ مُوسَ ىٰ وَ عِ يسَ ىٰ وَ مَ ا ُأوتِيَ النَّ ِبيُّونَ مِ نْ رَ ب ِِّهمْ اَل نُفَرِّ قُ بَ يْنَ َأحَ دٍ مِ ْنهُمْ وَ نَ حْ نُ لَه‬ َ‫مُسْ لِمُون‬ Katakanlah (hai orang-orang mukmin): "Kami beriman kepada Allah dan apa yang diturunkan kepada kami, dan apa yang diturunkan kepada Ibrahim, Isma'il, Ishaq, Ya'qub dan anak cucunya, dan apa yang diberikan kepada Musa dan Isa serta apa yang diberikan kepada nabi-nabi dari Tuhannya.
+
+Kami tidak membeda-bedakan seorangpun diantara mereka dan kami hanya tunduk patuh kepada-Nya".
 
 Surat Ali-Imran 3 : 84
 
@@ -95,13 +97,19 @@ Tidak ada paksaan untuk (memasuki) agama (Islam); sesungguhnya telah jelas jalan
 
 ‫ب َومُ َهيْ ِمنً ا َعلَيْ ِه ۖ فَاحْ كُ ْم َبيْ نَ هُ ْم ِب َما‬ ِ ‫ُصدِّ قًا لِ َما َبي َْن َيدَ يْ ِه م َِن الْ ِكتَ ا‬ َ ‫اب ِبالْ َحقِّ م‬ َ َ‫ْك الْ ِكت‬ َ ‫َوَأنْ زَ لْنَ ا ِإلَي‬ َ‫َأ ْنزَ لَ هَّللا ُ ۖ وَ اَل تَ َّت ِبعْ َأهْ وَ اءَ هُ مْ عَ مَّا جَ اءَ كَ مِنَ ْالحَ قِّ ۚ لِ ُكلٍّ جَ عَ ْلنَ ا مِ ْن ُكمْ شِ رْ عَ ًة وَ مِ ْنهَ اجً ا ۚ وَ َل ْو شَ اء‬ ‫هَّللا ُ لَ َج َعلَكُ ْم ُأم ًَّة َواحِدَ ةً َو ٰلَكِ نْ لِ َيبْ لُ َوكُ ْم فِي َما آتَ اكُ ْم ۖ فَاسْ تَ ِبقُوا الْخَ ي َْراتِ ۚ ِإلَى هَّللا ِ َمرْ ِجعُ كُ ْم َجمِيعًا‬ َ‫َفيُ َنبِّ ُئ ُكمْ ِبمَ ا ُك ْن ُتمْ فِيهِ َت ْخ َتلِفُون‬
 
-Dan Kami telah turunkan kepadamu Al Quran dengan membawa kebenaran, membenarkan apa yang sebelumnya, yaitu kitab-kitab (yang diturunkan sebelumnya) dan batu ujian terhadap kitab-kitab yang lain itu; maka putuskanlah perkara mereka menurut apa yang Allah turunkan dan janganlah kamu mengikuti hawa nafsu mereka dengan meninggalkan kebenaran yang telah datang kepadamu. Untuk tiap-tiap umat diantara kamu, Kami berikan aturan dan jalan yang terang. Sekiranya Allah menghendaki, niscaya kamu dijadikan-Nya satu umat (saja), tetapi Allah hendak menguji kamu terhadap pemberian-Nya kepadamu, maka berlomba-lombalah berbuat kebajikan. Hanya kepada Allah-lah kembali kamu semuanya, lalu diberitahukan-Nya kepadamu apa yang telah kamu perselisihkan itu,
+Dan Kami telah turunkan kepadamu Al Quran dengan membawa kebenaran, membenarkan apa yang sebelumnya, yaitu kitab-kitab (yang diturunkan sebelumnya) dan batu ujian terhadap kitab-kitab yang lain itu; maka putuskanlah perkara mereka menurut apa yang Allah turunkan dan janganlah kamu mengikuti hawa nafsu mereka dengan meninggalkan kebenaran yang telah datang kepadamu.
+
+Untuk tiap-tiap umat diantara kamu, Kami berikan aturan dan jalan yang terang. Sekiranya Allah menghendaki, niscaya kamu dijadikan-Nya satu umat (saja), tetapi Allah hendak menguji kamu terhadap pemberian-Nya kepadamu, maka berlomba-lombalah berbuat kebajikan.
+
+Hanya kepada Allah-lah kembali kamu semuanya, lalu diberitahukan-Nya kepadamu apa yang telah kamu perselisihkan itu,
 
 13) Surat Ali Imran 3 : 64
 
 ‫قُلْ يَ ا َأهْ لَ ْالكِ َتابِ َتعَ ا َل ْوا ِإ َل ٰى َكلِمَ ةٍ سَ وَ اءٍ بَ يْ َن َنا وَ بَ يْ َن ُكمْ َأاَّل َنعْ بُدَ ِإاَّل هَّللا َ وَ اَل ُن ْش ِركَ ِبهِ َشيْ ًئ ا وَ اَل‬ َ‫ون هَّللا ِ ۚ فَِإنْ تَ وَ لَّ ْوا فَقُولُوا اشْ هَ دُ وا ِبَأنَّ ا مُسْ لِمُون‬ ِ ُ‫يَ تَّ خِذَ بَ عْ ضُ نَ ا بَ عْ ضًا َأرْ بَ ابًا مِ نْ د‬
 
-Katakanlah: "Hai Ahli Kitab, marilah (berpegang) kepada suatu kalimat (ketetapan) yang tidak ada perselisihan antara kami dan kamu, bahwa tidak kita sembah kecuali Allah dan tidak kita persekutukan Dia dengan sesuatupun dan tidak (pula) sebagian kita menjadikan sebagian yang lain sebagai tuhan selain Allah". Jika mereka berpaling maka katakanlah kepada mereka: "Saksikanlah, bahwa kami adalah orang-orang yang berserah diri (kepada Allah)".
+Katakanlah: "Hai Ahli Kitab, marilah (berpegang) kepada suatu kalimat (ketetapan) yang tidak ada perselisihan antara kami dan kamu, bahwa tidak kita sembah kecuali Allah dan tidak kita persekutukan Dia dengan sesuatupun dan tidak (pula) sebagian kita menjadikan sebagian yang lain sebagai tuhan selain Allah".
+
+Jika mereka berpaling maka katakanlah kepada mereka: "Saksikanlah, bahwa kami adalah orang-orang yang berserah diri (kepada Allah)".
 
 14) Surat Al-Anfal 8 : 61
 
@@ -157,17 +165,23 @@ kecuali orang-orang yang menghadap Allah dengan hati yang bersih,
 
 Surat Yusuf 12 : 101
 
-‫ض َأنْ تَ َولِيِّي‬ ِ ْ‫يل اَأْل َحادِيثِ ۚ فَاطِ َر السَّ َم َاواتِ َواَأْلر‬ ِ ‫َربِّ قَدْ آتَ يْ تَ نِي م َِن الْمُلْكِ َو َعلَّمْ تَ نِي مِ نْ تَ ْأ ِو‬ َ‫فِي الدُّ ْنيَ ا وَ اآْل خِرَ ةِ ۖ َتوَ َّفنِي مُسْ لِمًا وَ َأ ْلحِ ْقنِي ِبالصَّالِحِين‬ Ya Tuhanku, sesungguhnya Engkau telah menganugerahkan kepadaku sebahagian kerajaan dan telah mengajarkan kepadaku sebahagian ta'bir mimpi. (Ya Tuhan) Pencipta langit dan bumi. Engkaulah Pelindungku di dunia dan di akhirat, wafatkanlah aku dalam keadaan Islam dan gabungkanlah aku dengan orang-orang yang saleh.
+‫ض َأنْ تَ َولِيِّي‬ ِ ْ‫يل اَأْل َحادِيثِ ۚ فَاطِ َر السَّ َم َاواتِ َواَأْلر‬ ِ ‫َربِّ قَدْ آتَ يْ تَ نِي م َِن الْمُلْكِ َو َعلَّمْ تَ نِي مِ نْ تَ ْأ ِو‬ َ‫فِي الدُّ ْنيَ ا وَ اآْل خِرَ ةِ ۖ َتوَ َّفنِي مُسْ لِمًا وَ َأ ْلحِ ْقنِي ِبالصَّالِحِين‬ Ya Tuhanku, sesungguhnya Engkau telah menganugerahkan kepadaku sebahagian kerajaan dan telah mengajarkan kepadaku sebahagian ta'bir mimpi.
+
+(Ya Tuhan) Pencipta langit dan bumi. Engkaulah Pelindungku di dunia dan di akhirat, wafatkanlah aku dalam keadaan Islam dan gabungkanlah aku dengan orang-orang yang saleh.
 
 Surat Al-Maidah 5 : 44
 
 ‫ِإ َّنا َأ ْنزَ ْلنَ ا ال َّت ْورَ اةَ فِيهَ ا هُ دً ى وَ ُنورٌ ۚ يَ حْ ُكمُ ِبهَ ا ال َّن ِبيُّونَ الَّذِينَ َأسْ َلمُوا لِلَّذِينَ هَ ادُ وا‬ ُ ‫وَ الرَّ بَّانِيُّونَ وَ اَأْلحْ بَ ارُ ِبمَ ا اسْ ُتحْ ف‬ ُ ِ‫ِظوا مِ نْ كِ َتابِ هَّللا ِ وَ َكا ُنوا عَ َليْ ه‬ َ‫شهَ دَ اءَ ۚ َفاَل َت ْخ َشوُ ا ال َّناس‬ ْ َ‫و‬ َ‫اخ َش ْو ِن وَ اَل َت ْش َترُوا ِبآيَ اتِي َثمَ ًنا َقلِياًل ۚ وَ مَ نْ َلمْ يَ حْ ُكمْ ِبمَ ا َأ ْن َزلَ هَّللا ُ َفُأو ٰ َلِئكَ هُ مُ ْال َكافِرُون‬
 
-Sesungguhnya Kami telah menurunkan Kitab Taurat di dalamnya (ada) petunjuk dan cahaya (yang menerangi), yang dengan Kitab itu diputuskan perkara orang-orang Yahudi oleh nabi-nabi yang menyerah diri kepada Allah, oleh orang-orang alim mereka dan pendeta-pendeta mereka, disebabkan mereka diperintahkan memelihara kitab-kitab Allah dan mereka menjadi saksi terhadapnya. Karena itu janganlah kamu takut kepada manusia, (tetapi) takutlah kepada-Ku. Dan janganlah kamu menukar ayat-ayat-Ku dengan harga yang sedikit. Barangsiapa yang tidak memutuskan menurut apa yang diturunkan Allah, maka mereka itu adalah orang-orang yang kafir.
+Sesungguhnya Kami telah menurunkan Kitab Taurat di dalamnya (ada) petunjuk dan cahaya (yang menerangi), yang dengan Kitab itu diputuskan perkara orang-orang Yahudi oleh nabi-nabi yang menyerah diri kepada Allah, oleh orang-orang alim mereka dan pendeta-pendeta mereka, disebabkan mereka diperintahkan memelihara kitab-kitab Allah dan mereka menjadi saksi terhadapnya.
+
+Karena itu janganlah kamu takut kepada manusia, (tetapi) takutlah kepada-Ku. Dan janganlah kamu menukar ayat-ayat-Ku dengan harga yang sedikit. Barangsiapa yang tidak memutuskan menurut apa yang diturunkan Allah, maka mereka itu adalah orang-orang yang kafir.
 
 15) Surat Al-Baqarah 2 : 30
 
-ُ‫ض خَ لِيفَةً ۖ قَالُوا َأتَ جْ َعلُ فِي َها َمنْ يُفْ سِ دُ فِي َها َو َيسْ ِفك‬ َ ‫َوِإ ْذ قَا َل َرب‬ ِ ْ‫ُّك لِلْ َماَل ِئكَ ِة ِإنِّ ي َجاعِ لٌ فِي اَأْلر‬ َ‫الدِّ مَ اءَ وَ َنحْ نُ ُنسَ بِّ حُ ِبحَ مْ دِكَ وَ ُن َقدِّ سُ َلكَ ۖ َقالَ ِإ ِّني َأعْ َلمُ مَ ا اَل َتعْ َلمُون‬ Ingatlah ketika Tuhanmu berfirman kepada para Malaikat: "Sesungguhnya Aku hendak menjadikan seorang khalifah di muka bumi". Mereka berkata: "Mengapa Engkau hendak menjadikan (khalifah) di bumi itu orang yang akan membuat kerusakan padanya dan menumpahkan darah, padahal kami senantiasa bertasbih dengan memuji Engkau dan mensucikan Engkau?" Tuhan berfirman: "Sesungguhnya Aku mengetahui apa yang tidak kamu ketahui".
+ُ‫ض خَ لِيفَةً ۖ قَالُوا َأتَ جْ َعلُ فِي َها َمنْ يُفْ سِ دُ فِي َها َو َيسْ ِفك‬ َ ‫َوِإ ْذ قَا َل َرب‬ ِ ْ‫ُّك لِلْ َماَل ِئكَ ِة ِإنِّ ي َجاعِ لٌ فِي اَأْلر‬ َ‫الدِّ مَ اءَ وَ َنحْ نُ ُنسَ بِّ حُ ِبحَ مْ دِكَ وَ ُن َقدِّ سُ َلكَ ۖ َقالَ ِإ ِّني َأعْ َلمُ مَ ا اَل َتعْ َلمُون‬ Ingatlah ketika Tuhanmu berfirman kepada para Malaikat: "Sesungguhnya Aku hendak menjadikan seorang khalifah di muka bumi".
+
+Mereka berkata: "Mengapa Engkau hendak menjadikan (khalifah) di bumi itu orang yang akan membuat kerusakan padanya dan menumpahkan darah, padahal kami senantiasa bertasbih dengan memuji Engkau dan mensucikan Engkau?" Tuhan berfirman: "Sesungguhnya Aku mengetahui apa yang tidak kamu ketahui".
 
 Surat Adz-Dzariat 51 : 56
 
@@ -177,7 +191,9 @@ Dan aku tidak menciptakan jin dan manusia melainkan supaya mereka mengabdi kepad
 
 16) Surat Al-Baqarah 2 : 136
 
-ِ‫وب َواَأْلسْ بَاط‬ َ ُ‫قُولُوا آ َمنَّ ا ِباهَّلل ِ َو َما ُأنْ ِز َل ِإلَيْ نَ ا َو َما ُأنْ ِز َل ِإلَىٰ ِإب َْراهِي َم َوِإسْ مَاعِ ي َل َوِإسْ َحاقَ َو َيعْ ق‬ ُ‫وَ مَ ا ُأوتِيَ مُوسَ ٰى وَ عِ يسَ ٰى وَ مَ ا ُأوتِيَ ال َّن ِبيُّونَ مِ نْ رَ ب ِِّهمْ اَل ُن َفرِّ ُق بَ يْنَ َأحَ دٍ مِ ْنهُمْ وَ َنحْ نُ َله‬ َ‫مُسْ لِمُون‬ Katakanlah (hai orang-orang mukmin): "Kami beriman kepada Allah dan apa yang diturunkan kepada kami, dan apa yang diturunkan kepada Ibrahim, Isma'il, Ishaq, Ya'qub dan anak cucunya, dan apa yang diberikan kepada Musa dan Isa serta apa yang diberikan kepada nabi-nabi dari Tuhannya. Kami tidak membeda-bedakan seorangpun diantara mereka dan kami hanya tunduk patuh kepada-Nya".
+ِ‫وب َواَأْلسْ بَاط‬ َ ُ‫قُولُوا آ َمنَّ ا ِباهَّلل ِ َو َما ُأنْ ِز َل ِإلَيْ نَ ا َو َما ُأنْ ِز َل ِإلَىٰ ِإب َْراهِي َم َوِإسْ مَاعِ ي َل َوِإسْ َحاقَ َو َيعْ ق‬ ُ‫وَ مَ ا ُأوتِيَ مُوسَ ٰى وَ عِ يسَ ٰى وَ مَ ا ُأوتِيَ ال َّن ِبيُّونَ مِ نْ رَ ب ِِّهمْ اَل ُن َفرِّ ُق بَ يْنَ َأحَ دٍ مِ ْنهُمْ وَ َنحْ نُ َله‬ َ‫مُسْ لِمُون‬ Katakanlah (hai orang-orang mukmin): "Kami beriman kepada Allah dan apa yang diturunkan kepada kami, dan apa yang diturunkan kepada Ibrahim, Isma'il, Ishaq, Ya'qub dan anak cucunya, dan apa yang diberikan kepada Musa dan Isa serta apa yang diberikan kepada nabi-nabi dari Tuhannya.
+
+Kami tidak membeda-bedakan seorangpun diantara mereka dan kami hanya tunduk patuh kepada-Nya".
 
 Surat Ali Imran 3 : 84
 
@@ -191,19 +207,25 @@ Surat Al-Maidah 5 : 72
 
 َ ‫َل َقدْ َك َفرَ الَّذِينَ َقالُوا ِإنَّ هَّللا َ هُوَ ْالمَسِ يحُ ابْنُ مَ رْ يَ مَ ۖ وَ َقالَ ْالمَسِ يحُ يَ ا بَ نِي ِإسْ رَ اِئيلَ اعْ بُدُ وا هَّللا‬ َّ ‫رَ بِّي وَ رَ بَّ كُ ْم ۖ ِإنَّ هُ مَ نْ يُشْ ركْ ِباهَّلل ِ فَقَدْ حَ رَّ َم هَّللا ُ عَ لَيْ هِ ْالجَ نَّ ةَ وَ مَ ْأوَ اهُ النَّ ارُ ۖ وَ مَ ا ل‬ ْ‫ِلظالِمِينَ مِ ن‬ ِ ‫ار‬ ٍ َ‫َأ ْنص‬
 
-Sesungguhnya telah kafirlah orang-orang yang berkata: "Sesungguhnya Allah ialah Al Masih putera Maryam", padahal Al Masih (sendiri) berkata: "Hai Bani Israil, sembahlah Allah Tuhanku dan Tuhanmu". Sesungguhnya orang yang mempersekutukan (sesuatu dengan) Allah, maka pasti Allah mengharamkan kepadanya surga, dan tempatnya ialah neraka, tidaklah ada bagi orang-orang zalim itu seorang penolongpun.
+Sesungguhnya telah kafirlah orang-orang yang berkata: "Sesungguhnya Allah ialah Al Masih putera Maryam", padahal Al Masih (sendiri) berkata: "Hai Bani Israil, sembahlah Allah Tuhanku dan Tuhanmu".
+
+Sesungguhnya orang yang mempersekutukan (sesuatu dengan) Allah, maka pasti Allah mengharamkan kepadanya surga, dan tempatnya ialah neraka, tidaklah ada bagi orang-orang zalim itu seorang penolongpun.
 
 Surat Al-Maidah 5 : 116
 
 ٰ ‫ُأ‬ َ‫ون هَّللا ِ ۖ َقال‬ ِ ُ‫ْن مِ نْ د‬ ِ ‫اس ا َّتخ ُِذونِي وَ مِّيَ ِإ َلهَ ي‬ ِ ‫وَ ِإ ْذ َقالَ هَّللا ُ يَ ا عِ يسَ ى ابْنَ مَ رْ يَ مَ َأَأ ْنتَ قُ ْلتَ لِل َّن‬ ‫سُ بْحَ انَ كَ مَ ا يَ كُ ونُ لِي َأنْ َأقُولَ مَ ا لَيْسَ لِي ِبحَ قٍّ ۚ ِإنْ كُ نْ تُ قُ ْلتُهُ فَقَدْ عَ لِمْ تَ هُ ۚ تَ عْ لَ ُم مَ ا فِي نَ فْ سِ ي‬ ِ‫وَ اَل َأعْ َلمُ مَ ا فِي َن ْفسِ كَ ۚ ِإ َّنكَ َأ ْنتَ عَ اَّل مُ ْال ُغيُوب‬
 
-Dan (ingatlah) ketika Allah berfirman: "Hai Isa putera Maryam, adakah kamu mengatakan kepada manusia: "Jadikanlah aku dan ibuku dua orang tuhan selain Allah?". Isa menjawab: "Maha Suci Engkau, tidaklah patut bagiku mengatakan apa yang bukan hakku (mengatakannya). Jika aku pernah mengatakan maka tentulah Engkau mengetahui apa yang ada pada diriku dan aku tidak mengetahui apa yang
+Dan (ingatlah) ketika Allah berfirman: "Hai Isa putera Maryam, adakah kamu mengatakan kepada manusia: "Jadikanlah aku dan ibuku dua orang tuhan selain Allah?". Isa menjawab: "Maha Suci Engkau, tidaklah patut bagiku mengatakan apa yang bukan hakku (mengatakannya).
+
+Jika aku pernah mengatakan maka tentulah Engkau mengetahui apa yang ada pada diriku dan aku tidak mengetahui apa yang
 
 ada pada diri Engkau. Sesungguhnya Engkau Maha Mengetahui perkara yang ghaib-ghaib".
 
 Surat Al-Maidah 5 : 117
 
-‫ِيه ْم ۖ فَلَمَّا‬ ِ ‫َما قُلْتُ لَهُ ْم ِإاَّل َما َأ َمرْ تَ نِي ِبهِ َأ ِن اعْ بُدُ وا هَّللا َ َربِّي َو َربَّ كُ ْم ۚ َوكُ نْ تُ َعلَي ِْه ْم شَ ِهيدً ا َما دُ مْ تُ ف‬ َ ‫ت الرَّ قِيبَ عَ َليْهِ مْ ۚ وَ َأ ْن‬ َ ‫ت َأ ْن‬ َ ‫َتوَ َّفيْ َتنِي ُك ْن‬ ‫ت عَ َل ٰى ُكلِّ َشيْ ءٍ َشهِ ي ٌد‬ Aku tidak pernah mengatakan kepada mereka kecuali apa yang Engkau perintahkan kepadaku (mengatakan)nya yaitu: "Sembahlah Allah, Tuhanku dan Tuhanmu", dan adalah aku menjadi saksi terhadap mereka, selama aku berada di antara mereka. Maka setelah Engkau wafatkan aku, Engkau-lah yang mengawasi mereka. Dan Engkau adalah Maha Menyaksikan atas segala sesuatu.
+‫ِيه ْم ۖ فَلَمَّا‬ ِ ‫َما قُلْتُ لَهُ ْم ِإاَّل َما َأ َمرْ تَ نِي ِبهِ َأ ِن اعْ بُدُ وا هَّللا َ َربِّي َو َربَّ كُ ْم ۚ َوكُ نْ تُ َعلَي ِْه ْم شَ ِهيدً ا َما دُ مْ تُ ف‬ َ ‫ت الرَّ قِيبَ عَ َليْهِ مْ ۚ وَ َأ ْن‬ َ ‫ت َأ ْن‬ َ ‫َتوَ َّفيْ َتنِي ُك ْن‬ ‫ت عَ َل ٰى ُكلِّ َشيْ ءٍ َشهِ ي ٌد‬ Aku tidak pernah mengatakan kepada mereka kecuali apa yang Engkau perintahkan kepadaku (mengatakan)nya yaitu: "Sembahlah Allah, Tuhanku dan Tuhanmu", dan adalah aku menjadi saksi terhadap mereka, selama aku berada di antara mereka.
+
+Maka setelah Engkau wafatkan aku, Engkau-lah yang mengawasi mereka. Dan Engkau adalah Maha Menyaksikan atas segala sesuatu.
 
 18) Surat An-Nisaa’ 4 : 82
 
@@ -213,7 +235,9 @@ Maka apakah mereka tidak memperhatikan Al Quran? Kalau kiranya Al Quran itu buka
 
 19) Surat Ali Imran 3 : 75
 
-‫وَ مِ نْ َأهْ لِ ْالكِ َتابِ مَ نْ ِإنْ َتْأمَ ْنهُ بِقِ ْن َطارٍ يَُؤ ِّدهِ ِإ َليْكَ وَ مِ ْنهُمْ مَ نْ ِإنْ َتْأمَ ْنهُ بِدِي َنارٍ اَل يَُؤ ِّدهِ ِإ َليْكَ ِإاَّل‬ َ‫مَ ا دُ مْتَ عَ َليْ هِ قَاِئمًا ۗ ٰ َذلِكَ ِبَأ َّنهُمْ قَالُوا َليْسَ عَ َليْ نَ ا فِي اُأْلمِّ يِّينَ سَ ِبيلٌ وَ يَ قُولُونَ عَ َلى هَّللا ِ ْالكَ ذِب‬ ‫ُون‬ َ ‫َوهُ ْم َيعْ لَم‬ Di antara Ahli kitab ada orang yang jika kamu mempercayakan kepadanya harta yang banyak, dikembalikannya kepadamu; dan di antara mereka ada orang yang jika kamu mempercayakan kepadanya satu dinar, tidak dikembalikannya kepadamu kecuali jika kamu selalu menagihnya. Yang demikian itu lantaran mereka mengatakan: "tidak ada dosa bagi kami terhadap orang-orang ummi. Mereka berkata dusta terhadap Allah, padahal mereka mengetahui.
+‫وَ مِ نْ َأهْ لِ ْالكِ َتابِ مَ نْ ِإنْ َتْأمَ ْنهُ بِقِ ْن َطارٍ يَُؤ ِّدهِ ِإ َليْكَ وَ مِ ْنهُمْ مَ نْ ِإنْ َتْأمَ ْنهُ بِدِي َنارٍ اَل يَُؤ ِّدهِ ِإ َليْكَ ِإاَّل‬ َ‫مَ ا دُ مْتَ عَ َليْ هِ قَاِئمًا ۗ ٰ َذلِكَ ِبَأ َّنهُمْ قَالُوا َليْسَ عَ َليْ نَ ا فِي اُأْلمِّ يِّينَ سَ ِبيلٌ وَ يَ قُولُونَ عَ َلى هَّللا ِ ْالكَ ذِب‬ ‫ُون‬ َ ‫َوهُ ْم َيعْ لَم‬ Di antara Ahli kitab ada orang yang jika kamu mempercayakan kepadanya harta yang banyak, dikembalikannya kepadamu; dan di antara mereka ada orang yang jika kamu mempercayakan kepadanya satu dinar, tidak dikembalikannya kepadamu kecuali jika kamu selalu menagihnya.
+
+Yang demikian itu lantaran mereka mengatakan: "tidak ada dosa bagi kami terhadap orang-orang ummi. Mereka berkata dusta terhadap Allah, padahal mereka mengetahui.
 
 Surat Ali Imran 3 : 113
 
@@ -239,7 +263,11 @@ Surat Al-Maidah 5 : 5
 
 َّ ُ‫ْاليَ ْومَ ُأحِ لَّ َل ُكم‬ ُ ‫ات ۖ وَ َطعَ امُ الَّذِينَ ُأو ُتوا ْالكِ َتابَ حِ لٌّ َل ُكمْ وَ َطعَ امُ ُكمْ حِ لٌّ َلهُمْ ۖ وَ ْالمُحْ صَ َن‬ ُ َ‫الطيِّ ب‬ ‫ات‬ َ‫مِنَ ْالمُْؤ مِ نَ اتِ وَ ْالمُحْ صَ نَ اتُ مِنَ الَّذِينَ ُأوتُوا ْالكِ تَ ابَ مِ نْ قَبْ لِكُ ْم ِإ َذا آتَ يْ تُمُوهُنَّ ُأجُورَ هُنَّ مُحْ صِ نِين‬ َ‫ان َف َق ْد حَ ِب َط عَ مَ لُهُ وَ هُوَ فِي اآْل خِرَ ةِ مِن‬ ِ َ‫َغيْرَ مُسَ افِحِينَ وَ اَل مُ َّتخِ ذِي َأ ْخدَ انٍ ۗ وَ مَ نْ يَ ْكفُرْ ِباِإْليم‬ َ‫ْالخَ اسِ ِرين‬
 
-Pada hari ini dihalalkan bagimu yang baik-baik. Makanan (sembelihan) orang-orang yang diberi Al Kitab itu halal bagimu, dan makanan kamu halal (pula) bagi mereka. (Dan dihalalkan mangawini) wanita yang menjaga kehormatan diantara wanita-wanita yang beriman dan wanita-wanita yang menjaga kehormatan di antara orang-orang yang diberi Al Kitab sebelum kamu, bila kamu telah membayar mas kawin mereka dengan maksud menikahinya, tidak dengan maksud berzina dan tidak (pula) menjadikannya gundik-gundik. Barangsiapa yang kafir sesudah beriman (tidak menerima hukum-hukum Islam) maka hapuslah amalannya dan ia di hari kiamat termasuk orang-orang merugi.
+Pada hari ini dihalalkan bagimu yang baik-baik. Makanan (sembelihan) orang-orang yang diberi Al Kitab itu halal bagimu, dan makanan kamu halal (pula) bagi mereka.
+
+(Dan dihalalkan mangawini) wanita yang menjaga kehormatan diantara wanita-wanita yang beriman dan wanita-wanita yang menjaga kehormatan di antara orang-orang yang diberi Al Kitab sebelum kamu, bila kamu telah membayar mas kawin mereka dengan maksud menikahinya, tidak dengan maksud berzina dan tidak (pula) menjadikannya gundik-gundik.
+
+Barangsiapa yang kafir sesudah beriman (tidak menerima hukum-hukum Islam) maka hapuslah amalannya dan ia di hari kiamat termasuk orang-orang merugi.
 
 20) Surat Al-Maidah 5 : 73
 
@@ -251,11 +279,15 @@ Surat Al-Maidah 5 : 116
 
 ٰ ‫ُأ‬ َ ‫ت قُ ْل‬ َ ‫وَ ِإ ْذ َقالَ هَّللا ُ يَ ا عِ يسَ ى ابْنَ مَ رْ يَ مَ َأَأ ْن‬ َ‫ون هَّللا ِ ۖ َقال‬ ِ ‫ْن مِ نْ ُد‬ ِ ‫اس ا َّتخ ُِذونِي وَ مِّيَ ِإ َلهَ ي‬ ِ ‫ت لِل َّن‬ ‫سُ بْحَ انَ كَ مَ ا يَ ُكونُ لِي َأنْ َأقُولَ مَ ا َليْسَ لِي ِبحَ قٍّ ۚ ِإنْ ُك ْنتُ قُ ْل ُتهُ فَقَدْ عَ لِمْ تَ هُ ۚ تَ عْ َلمُ مَ ا فِي نَ ْفسِ ي‬ ‫ب‬ ِ ‫ك َأنْ تَ َعاَّل ُم الْغُ يُو‬ َ َّ‫ك ۚ ِإن‬ َ ِ‫َواَل َأعْ لَ ُم َما فِي نَ فْ س‬
 
-Dan (ingatlah) ketika Allah berfirman: "Hai Isa putera Maryam, adakah kamu mengatakan kepada manusia: "Jadikanlah aku dan ibuku dua orang tuhan selain Allah?". Isa menjawab: "Maha Suci Engkau, tidaklah patut bagiku mengatakan apa yang bukan hakku (mengatakannya). Jika aku pernah mengatakan maka tentulah Engkau mengetahui apa yang ada pada diriku dan aku tidak mengetahui apa yang ada pada diri Engkau. Sesungguhnya Engkau Maha Mengetahui perkara yang ghaib-ghaib".
+Dan (ingatlah) ketika Allah berfirman: "Hai Isa putera Maryam, adakah kamu mengatakan kepada manusia: "Jadikanlah aku dan ibuku dua orang tuhan selain Allah?". Isa menjawab: "Maha Suci Engkau, tidaklah patut bagiku mengatakan apa yang bukan hakku (mengatakannya).
+
+Jika aku pernah mengatakan maka tentulah Engkau mengetahui apa yang ada pada diriku dan aku tidak mengetahui apa yang ada pada diri Engkau. Sesungguhnya Engkau Maha Mengetahui perkara yang ghaib-ghaib".
 
 Surat Al-Mu’minun 23 : 91
 
-‫مَ ا ا َّت َخ َذ هَّللا ُ مِ نْ وَ َلدٍ وَ مَ ا َكانَ مَ عَ هُ مِ نْ ِإ ٰ َلهٍ ۚ ِإ ًذا َل َذهَ بَ ُكلُّ ِإ ٰ َلهٍ ِبمَ ا َخ َلقَ وَ َلعَ اَل بَ عْ ضُ هُمْ عَ َل ٰى‬ ‫بَ عْ ض‬ َ‫ٍ ۚ سُ بْحَ انَ هَّللا ِ عَ مَّا يَصِ فُون‬ Allah sekali-kali tidak mempunyai anak, dan sekali-kali tidak ada tuhan (yang lain) beserta-Nya, kalau ada tuhan beserta-Nya, masing-masing tuhan itu akan membawa makhluk yang diciptakannya, dan sebagian dari tuhan-tuhan itu akan mengalahkan sebagian yang lain. Maha Suci Allah dari apa yang mereka sifatkan itu,
+‫مَ ا ا َّت َخ َذ هَّللا ُ مِ نْ وَ َلدٍ وَ مَ ا َكانَ مَ عَ هُ مِ نْ ِإ ٰ َلهٍ ۚ ِإ ًذا َل َذهَ بَ ُكلُّ ِإ ٰ َلهٍ ِبمَ ا َخ َلقَ وَ َلعَ اَل بَ عْ ضُ هُمْ عَ َل ٰى‬ ‫بَ عْ ض‬ َ‫ٍ ۚ سُ بْحَ انَ هَّللا ِ عَ مَّا يَصِ فُون‬ Allah sekali-kali tidak mempunyai anak, dan sekali-kali tidak ada tuhan (yang lain) beserta-Nya, kalau ada tuhan beserta-Nya, masing-masing tuhan itu akan membawa makhluk yang diciptakannya, dan sebagian dari tuhan-tuhan itu akan mengalahkan sebagian yang lain.
+
+Maha Suci Allah dari apa yang mereka sifatkan itu,
 
 Surat Al-Ihlash 112 : 1, 2, 3, 4
 
@@ -275,7 +307,6 @@ Surat Al-Ihlash 112 : 1, 2, 3, 4
 
 ======= Surat Al-Maidah 5: 8
 
-Hai orang-orang yang beriman hendaklah kamu jadi orang-orang yang selalu menegakkan (kebenaran) karena Allah, menjadi saksi dengan adil. Dan janganlah sekali-kali kebencianmu terhadap sesuatu kaum, mendorong kamu untuk berlaku tidak adil. Berlaku adillah, karena adil itu lebih dekat kepada takwa. Dan bertakwalah kepada Allah, sesungguhnya Allah Maha Mengetahui apa yang kamu kerjakan.
+Hai orang-orang yang beriman hendaklah kamu jadi orang-orang yang selalu menegakkan (kebenaran) karena Allah, menjadi saksi dengan adil. Dan janganlah sekali-kali kebencianmu terhadap sesuatu kaum, mendorong kamu untuk berlaku tidak adil. Berlaku adillah, karena adil itu lebih dekat kepada takwa.
 
-
-[Open original PDF](/pdf/Rujukan%20Ayat%20Sesuai%20Urutan.pdf)
+Dan bertakwalah kepada Allah, sesungguhnya Allah Maha Mengetahui apa yang kamu kerjakan.
