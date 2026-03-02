@@ -4,7 +4,7 @@
   <a href="{{ .RelPermalink }}" class="feed-item">
     <h2 class="feed-title">{{ .Title }}</h2>
     {{ with .Params.excerpt }}<p class="feed-excerpt">{{ . }}</p>{{ end }}
-    <p class="feed-meta">{{ .Params.author }} · {{ .Date.Format "Jan 2, 2006" }}{{ with .Params.readingTime }} · {{ . }} min read{{ end }}</p>
+    <p class="feed-meta">{{ .Params.author }} · {{ .Date.Format "Jan 2, 2006" }}{{ with .Params.readingTime }} · {{ . }} menit baca{{ end }}</p>
   </a>
   {{ end }}
 </div>
