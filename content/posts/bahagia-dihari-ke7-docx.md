@@ -3,6 +3,7 @@ title = "Bahagia dihari ke7.docx"
 author = "Haydar Yahya"
 date = "2026-03-02"
 pdf = "/pdf/Bahagia%20dihari%20ke7.docx.pdf"
+excerpt = "“Bahagia dihari ke 7”​ (haydar yahya diilhami dari kisah nyata) Is, seorang penyayang kucing yang sulit dicari tandingannya. Sebagai karyawan harian dengan…"
 +++
 
 “Bahagia dihari ke 7”​ (haydar yahya diilhami dari kisah nyata) Is, seorang penyayang kucing yang sulit dicari tandingannya. Sebagai karyawan harian dengan penghasilan pas-pasan Rp 100. Ribu.- per hari, ia sisihkan Rp 3.000.- untuk enam ekor kucing kecintaannya.

@@ -3,6 +3,7 @@ title = "Rujukan Ayat Sesuai Urutan"
 author = "Haydar Yahya"
 date = "2026-03-02"
 pdf = "/pdf/Rujukan%20Ayat%20Sesuai%20Urutan.pdf"
+excerpt = "Rujukan Ayat-Ayat Al-Qur’an sesuai urutan 1) Surat Al-Fatihah1:2 َ‫ْالحَ مْ دُ هَّلِل ِ رَ بِّ ْالعَ الَمِين‬ Segala puji hanya bagi Allah Pemelihara Alam…"
 +++
 
 Rujukan Ayat-Ayat Al-Qur’an sesuai urutan 1) Surat Al-Fatihah1:2

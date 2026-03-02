@@ -3,6 +3,7 @@ title = "O HASHEM in MEMORIUM"
 author = "Haydar Yahya"
 date = "2026-03-02"
 pdf = "/pdf/O%20HASHEM%20in%20MEMORIUM.pdf"
+excerpt = "O.HASHEM in MEMORIUM​ (Seorang Laki-Laki Sejati Penuh Warna) (Gorontalo, Sulawesi Utara 28 Januari 1935 - Jakarta, 24 Januari 2009)​ “...ibarat pohon yang…"
 +++
 
 O.HASHEM in MEMORIUM​ (Seorang Laki-Laki Sejati Penuh Warna) (Gorontalo, Sulawesi Utara 28 Januari 1935 - Jakarta, 24 Januari 2009)​ “...ibarat pohon yang berbunga, berbuah, meski hidup dalam kemarau berkepanjangan”.​ Laki-laki ini, lain dari kebanyakan laki-Iaki.

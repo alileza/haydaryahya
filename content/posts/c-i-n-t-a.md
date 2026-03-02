@@ -3,6 +3,7 @@ title = "C I N T A"
 author = "Haydar Yahya"
 date = "2026-03-02"
 pdf = "/pdf/C%20I%20N%20T%20A.pdf"
+excerpt = "CINTA yang diabadikan dalam al-quran Cinta selalu menarik sebagai objek cerita. Banyak penyair, sastrawan berimajinasi menciptakan syair, puisi, novel, roman,…"
 +++
 
 CINTA yang diabadikan dalam al-quran Cinta selalu menarik sebagai objek cerita. Banyak penyair, sastrawan berimajinasi menciptakan syair, puisi, novel, roman, qoshidah, nasyid terkait cinta. Umumnya fiktif. Sekedar imajinasi sang penyair. Cinta dan kisah perjalanannya senantiasa indah. Berawal dan berakhir indah. Meski suka, meski duka.

@@ -125,12 +125,15 @@ for block in blocks:
 
   cp "$pdf_path" "$STATIC_PDF_DIR/$file_name"
 
+  excerpt="$(printf '%s' "$body_markdown" | sed '/^$/d' | head -3 | tr '\n' ' ' | sed -E 's/^ +| +$//g' | cut -c1-160 | sed -E 's/ [^ ]*$/…/')"
+
   cat > "$POSTS_DIR/$slug.md" <<POST_MD
 +++
 title = "$(escape_toml "$title")"
 author = "$(escape_toml "$author_name")"
 date = "$(escape_toml "$authored_date")"
 pdf = "/pdf/${encoded_name}"
+excerpt = "$(escape_toml "$excerpt")"
 +++
 
 ${body_markdown}

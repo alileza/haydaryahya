@@ -3,6 +3,7 @@ title = "Stop Heboh Mazhab"
 author = "Haydar Yahya"
 date = "2026-03-02"
 pdf = "/pdf/Stop%20Heboh%20Mazhab.pdf"
+excerpt = "Bagi yang tertarik memperluas wawasan.. Moga bermanfaat catatan dibawah ini : #SAVE ISLAM Mengenang 70 thn Kemerdekaan Indonesia, 17Agustus 2015 POTRET UMMAT…"
 +++
 
 Bagi yang tertarik memperluas wawasan.. Moga bermanfaat catatan dibawah ini : #SAVE ISLAM Mengenang 70 thn Kemerdekaan Indonesia, 17Agustus 2015 POTRET UMMAT Stop Heboh Mazhab Sunni Syi'ah Tanpa Ujung ... Sabda Rasulullah saw :"Barangsiapa yang tidak peduli atas nasib yang menimpa kau muslimin, bukanlah dari mereka (kaum muslimin).. (alhadits).
