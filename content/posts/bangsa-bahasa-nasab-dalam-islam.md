@@ -4,6 +4,7 @@ author = "Haydar Yahya"
 date = "2022-01-01"
 pdf = "/pdf/Bangsa%20Bahasa%20Nasab%20Dalam%20Islam.pdf"
 excerpt = "Bangsa, Bahasa dan Nasab Akhir-akhir ini issue bangsa, bahasa, dan nasab, sempat menyibukkan banyak orang. Siapa yang unggul ? Konon, bahasa Arab, bangsa Arab…"
+summary = "Bangsa, Bahasa dan Nasab Akhir-akhir ini issue bangsa, bahasa, dan nasab, sempat menyibukkan banyak orang. Siapa yang unggul ? Konon, bahasa Arab, bangsa Arab adalah pilihan Tuhan. Di akhirat kelak, bahasa Arab yang berlaku. Malaikat berbahasa Arab. Penghuni surga berbahasa Arab."
 readingTime = 4
 +++
 

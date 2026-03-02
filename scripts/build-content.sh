@@ -156,10 +156,23 @@ if idx > 0 and len(" ".join(lines[:3])) > 160:
     excerpt = excerpt[:idx] + "\u2026"
 words = len(text.split())
 mins = max(1, math.ceil(words / 265))
-print(f"{excerpt}\t{mins}")
+# Build a 2-3 sentence summary from first few paragraphs
+summary_lines = lines[:6]
+summary_text = " ".join(summary_lines)
+if len(summary_text) > 280:
+    summary_text = summary_text[:280]
+    cut = summary_text.rfind(".")
+    if cut > 100:
+        summary_text = summary_text[:cut+1]
+    else:
+        cut = summary_text.rfind(" ")
+        if cut > 0:
+            summary_text = summary_text[:cut] + "\u2026"
+print(f"{excerpt}\t{mins}\t{summary_text}")
 ')"
   excerpt="$(printf '%s' "$read_stats" | cut -f1)"
   read_min="$(printf '%s' "$read_stats" | cut -f2)"
+  summary="$(printf '%s' "$read_stats" | cut -f3)"
 
   cat > "$POSTS_DIR/$slug.md" <<POST_MD
 +++
@@ -168,6 +181,7 @@ author = "$(escape_toml "$author_name")"
 date = "$(escape_toml "$authored_date")"
 pdf = "/pdf/${encoded_name}"
 excerpt = "$(escape_toml "$excerpt")"
+summary = "$(escape_toml "$summary")"
 readingTime = $read_min
 +++
 

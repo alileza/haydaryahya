@@ -331,6 +331,71 @@ a:hover {
   color: var(--text);
 }
 
+/* ---- Progress bar ---- */
+.progress-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 3px;
+  width: 0%;
+  background: var(--accent);
+  z-index: 20;
+  transition: width 0.1s linear;
+}
+
+/* ---- Summary box ---- */
+.article-summary {
+  border-left: 3px solid var(--accent);
+  padding: 16px 20px;
+  margin-bottom: 32px;
+  background: #f9faf9;
+  border-radius: 0 4px 4px 0;
+}
+
+.article-summary-label {
+  display: block;
+  font-family: var(--font-sans);
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--accent);
+  margin-bottom: 6px;
+}
+
+.article-summary p {
+  font-family: var(--font-serif);
+  font-size: 1.0625rem;
+  line-height: 1.65;
+  color: var(--muted);
+  margin: 0;
+}
+
+/* ---- Drop cap ---- */
+.drop-cap > p:first-of-type::first-letter {
+  float: left;
+  font-family: var(--font-serif);
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 0.8;
+  margin: 6px 8px 0 0;
+  color: var(--text);
+}
+
+/* ---- Section divider ---- */
+.article-body hr {
+  border: none;
+  text-align: center;
+  margin: 2.5rem 0;
+}
+
+.article-body hr::after {
+  content: "···";
+  font-size: 1.5rem;
+  letter-spacing: 0.5em;
+  color: var(--muted);
+}
+
 /* ---- Responsive ---- */
 @media (max-width: 768px) {
   .container {
@@ -359,5 +424,9 @@ a:hover {
   .article-body {
     font-size: 1.0625rem;
     line-height: 1.75rem;
+  }
+
+  .drop-cap > p:first-of-type::first-letter {
+    font-size: 2.75rem;
   }
 }

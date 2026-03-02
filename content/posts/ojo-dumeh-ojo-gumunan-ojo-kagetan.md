@@ -4,6 +4,7 @@ author = "Haydar Yahya"
 date = "2017-01-01"
 pdf = "/pdf/Ojo%20Dumeh%20Ojo%20Gumunan%20Ojo%20Kagetan.pdf"
 excerpt = "Ojo Dumeh, Ojo Gumunan, Ojo Kagetan... Bagi yang sering bingung atau merasa sok bener,tanpa ilmu memadai,atas adanya perbedaan dalam berbagai cabang ajaran…"
+summary = "Ojo Dumeh, Ojo Gumunan, Ojo Kagetan... Bagi yang sering bingung atau merasa sok bener,tanpa ilmu memadai,atas adanya perbedaan dalam berbagai cabang ajaran Islam yang melahirkan berbagai mazhab dan pandangan,bagus baca catatan kecil ini."
 readingTime = 3
 +++
 
