@@ -1,5 +1,5 @@
 +++
-title = "AKAL dlm Al Quran.docx"
+title = "Akal dalam Al-Quran"
 author = "Haydar Yahya"
 date = "2013-05-01"
 pdf = "/pdf/AKAL%20dlm%20Al%20Quran.docx.pdf"

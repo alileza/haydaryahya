@@ -1,5 +1,5 @@
 +++
-title = "Rasulullah Muhammad saw dan Imam Ali as.docx"
+title = "Rasulullah Muhammad SAW dan Imam Ali AS"
 author = "Haydar Yahya"
 date = "2017-01-01"
 pdf = "/pdf/Rasulullah%20Muhammad%20saw%20dan%20Imam%20Ali%20as.docx.pdf"

@@ -1,5 +1,5 @@
 +++
-title = "O HASHEM in MEMORIUM"
+title = "O. Hashem in Memoriam"
 author = "Haydar Yahya"
 date = "2009-02-04"
 pdf = "/pdf/O%20HASHEM%20in%20MEMORIUM.pdf"

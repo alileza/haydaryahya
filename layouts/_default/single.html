@@ -18,4 +18,45 @@
   </footer>
   {{ end }}
 </article>
+
+<div class="ref-popup-overlay" id="refOverlay">
+  <div class="ref-popup">
+    <button class="ref-popup-close" id="refClose">&times;</button>
+    <div class="ref-popup-num" id="refNum"></div>
+    <div id="refText"></div>
+  </div>
+</div>
+
+<script>
+(function() {
+  var dataEl = document.getElementById('ref-data');
+  if (!dataEl) return;
+  var refs = JSON.parse(dataEl.getAttribute('data-refs'));
+  var overlay = document.getElementById('refOverlay');
+  var refNum = document.getElementById('refNum');
+  var refText = document.getElementById('refText');
+
+  document.querySelectorAll('.ref-link').forEach(function(el) {
+    el.addEventListener('click', function(e) {
+      e.preventDefault();
+      var num = el.getAttribute('data-ref');
+      if (refs[num]) {
+        refNum.textContent = 'Rujukan ' + num;
+        refText.textContent = refs[num];
+        overlay.classList.add('active');
+      }
+    });
+  });
+
+  overlay.addEventListener('click', function(e) {
+    if (e.target === overlay || e.target.id === 'refClose') {
+      overlay.classList.remove('active');
+    }
+  });
+
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') overlay.classList.remove('active');
+  });
+})();
+</script>
 {{ end }}

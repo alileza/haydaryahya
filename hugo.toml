@@ -2,5 +2,8 @@ baseURL = 'https://haydaryahya.com/'
 languageCode = 'en-us'
 title = 'Haydar Yahya'
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [params]
   description = 'Collected writings by Haydar Yahya'

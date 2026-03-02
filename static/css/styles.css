@@ -177,6 +177,75 @@ a:hover {
   text-decoration: underline;
 }
 
+/* ---- Reference popups ---- */
+.ref-link {
+  color: var(--accent);
+  cursor: pointer;
+  font-size: 0.8em;
+  vertical-align: super;
+  line-height: 0;
+  font-family: var(--font-sans);
+  font-weight: 600;
+}
+
+.ref-link:hover {
+  text-decoration: underline;
+}
+
+.ref-popup-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.4);
+  z-index: 100;
+  justify-content: center;
+  align-items: center;
+}
+
+.ref-popup-overlay.active {
+  display: flex;
+}
+
+.ref-popup {
+  background: var(--bg);
+  border-radius: 8px;
+  padding: 24px 28px;
+  max-width: 520px;
+  width: 90vw;
+  max-height: 70vh;
+  overflow-y: auto;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
+  position: relative;
+  font-family: var(--font-serif);
+  font-size: 1rem;
+  line-height: 1.7;
+  color: var(--text);
+}
+
+.ref-popup-num {
+  font-family: var(--font-sans);
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--accent);
+  margin-bottom: 8px;
+}
+
+.ref-popup-close {
+  position: absolute;
+  top: 12px;
+  right: 16px;
+  background: none;
+  border: none;
+  font-size: 1.25rem;
+  cursor: pointer;
+  color: var(--muted);
+  line-height: 1;
+}
+
+.ref-popup-close:hover {
+  color: var(--text);
+}
+
 /* ---- Responsive ---- */
 @media (max-width: 768px) {
   .container {

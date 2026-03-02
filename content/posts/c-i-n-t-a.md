@@ -1,5 +1,5 @@
 +++
-title = "C I N T A"
+title = "Cinta"
 author = "Haydar Yahya"
 date = "2020-01-01"
 pdf = "/pdf/C%20I%20N%20T%20A.pdf"

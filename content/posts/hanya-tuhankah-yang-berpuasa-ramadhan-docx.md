@@ -1,5 +1,5 @@
 +++
-title = "Hanya Tuhankah Yang Berpuasa Ramadhan.docx"
+title = "Hanya Tuhankah Yang Berpuasa Ramadhan"
 author = "Haydar Yahya"
 date = "2026-03-02"
 pdf = "/pdf/Hanya%20Tuhankah%20Yang%20Berpuasa%20Ramadhan.docx.pdf"

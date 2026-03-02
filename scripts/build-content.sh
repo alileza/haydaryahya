@@ -44,8 +44,18 @@ read_meta_override() {
   awk -F'\t' -v f="$file_name" -v c="$column" '$1==f {print $c; exit}' "$META_FILE"
 }
 
+RUJUKAN_TEXT=""
+
 while IFS= read -r -d '' pdf_path; do
   file_name="$(basename "$pdf_path")"
+
+  # Skip Rujukan — it's a reference appendix, not a standalone article
+  if [[ "$file_name" == "Rujukan Ayat Sesuai Urutan.pdf" ]]; then
+    cp "$pdf_path" "$STATIC_PDF_DIR/$file_name"
+    RUJUKAN_TEXT="$(pdftotext "$pdf_path" - 2>/dev/null || true)"
+    continue
+  fi
+
   title="${file_name%.pdf}"
   slug="$(slugify "$file_name")"
   encoded_name="$(url_encode "$file_name")"
@@ -57,11 +67,13 @@ while IFS= read -r -d '' pdf_path; do
 
   override_author="$(read_meta_override "$file_name" 2)"
   override_date="$(read_meta_override "$file_name" 3)"
+  override_title="$(read_meta_override "$file_name" 4)"
 
   author_name="${override_author:-${meta_author:-Haydar Yahya}}"
   authored_date="${override_date:-${meta_date:-$file_date}}"
   [ -n "$author_name" ] || author_name="Haydar Yahya"
   [ -n "$authored_date" ] || authored_date="$file_date"
+  [ -n "$override_title" ] && title="$override_title"
 
   text_content="$(pdftotext "$pdf_path" - 2>/dev/null || true)"
 
@@ -149,5 +161,14 @@ ${body_markdown}
 POST_MD
 
 done < <(find "$PDF_DIR" -maxdepth 1 -type f -name '*.pdf' -print0)
+
+# Inject Rujukan references as clickable popups into the Islam article
+ISLAM_POST="$POSTS_DIR/islam-nama-generik-semua-agama-samawi.md"
+if [[ -n "$RUJUKAN_TEXT" && -f "$ISLAM_POST" ]]; then
+  RUJUKAN_TMP="$(mktemp)"
+  printf '%s' "$RUJUKAN_TEXT" > "$RUJUKAN_TMP"
+  python3 "$ROOT_DIR/scripts/inject-references.py" "$RUJUKAN_TMP" "$ISLAM_POST"
+  rm -f "$RUJUKAN_TMP"
+fi
 
 echo "Generated Hugo content from PDFs."

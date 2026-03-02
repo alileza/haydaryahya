@@ -1,5 +1,5 @@
 +++
-title = "Bahagia dihari ke7.docx"
+title = "Bahagia di Hari ke-7"
 author = "Haydar Yahya"
 date = "2026-03-02"
 pdf = "/pdf/Bahagia%20dihari%20ke7.docx.pdf"
