@@ -1,0 +1,136 @@
+:root {
+  --bg: #f8f8f5;
+  --panel: #ffffff;
+  --text: #242424;
+  --muted: #6b6b6b;
+  --line: #e7e7e3;
+  --accent: #1a8917;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: Charter, "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Palatino, Georgia, serif;
+  background: linear-gradient(180deg, #fafaf7 0%, var(--bg) 100%);
+  color: var(--text);
+}
+
+.container {
+  width: min(1100px, 92vw);
+  margin: 0 auto;
+  padding: 2rem 0 4rem;
+}
+
+.hero h1 {
+  margin: 0;
+  font-size: clamp(2rem, 5vw, 3.2rem);
+}
+
+.hero p {
+  color: var(--muted);
+  max-width: 70ch;
+}
+
+h2 {
+  margin-top: 2.2rem;
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 0.5rem;
+}
+
+.cards {
+  list-style: none;
+  margin: 1.2rem 0 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1rem;
+}
+
+.card {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  padding: 1.1rem;
+  border-radius: 8px;
+}
+
+.card h3 {
+  margin: 0 0 0.6rem;
+  font-size: 1.08rem;
+  line-height: 1.35;
+}
+
+.card-meta {
+  margin: 0 0 0.8rem;
+  color: var(--muted);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 0.9rem;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+a:hover { text-decoration: underline; }
+
+.article {
+  width: min(760px, 92vw);
+}
+
+.back-link {
+  margin-bottom: 1rem;
+}
+
+.article-header h1 {
+  margin: 0 0 0.5rem;
+  line-height: 1.2;
+  font-size: clamp(2rem, 4.2vw, 2.7rem);
+}
+
+.byline {
+  margin: 0 0 1.25rem;
+  color: var(--muted);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 0.95rem;
+}
+
+.article-body {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  padding: 1.4rem 1.25rem;
+}
+
+.article-body p {
+  margin: 0 0 1.4rem;
+  line-height: 1.85;
+  font-size: clamp(1.08rem, 2.5vw, 1.32rem);
+  letter-spacing: 0.003em;
+  overflow-wrap: anywhere;
+}
+
+.article-footer {
+  border-top: 1px solid var(--line);
+  margin-top: 1rem;
+  padding-top: 1rem;
+}
+
+@media (max-width: 640px) {
+  .container {
+    padding-top: 1.25rem;
+    padding-bottom: 2rem;
+  }
+
+  .cards {
+    grid-template-columns: 1fr;
+  }
+
+  .card {
+    padding: 0.9rem;
+  }
+
+  .article-body {
+    padding: 0.9rem;
+  }
+}

@@ -1,0 +1,19 @@
+{{ define "main" }}
+<article class="article">
+  <p class="back-link"><a href="/">Home</a></p>
+  <header class="article-header">
+    <h1>{{ .Title }}</h1>
+    <p class="byline">By <strong>{{ .Params.author }}</strong> · Authored on {{ .Date.Format "2006-01-02" }}</p>
+  </header>
+
+  <section class="article-body">
+    {{ .Content }}
+  </section>
+
+  {{ with .Params.pdf }}
+  <footer class="article-footer">
+    <p><a href="{{ . }}">Open original PDF</a></p>
+  </footer>
+  {{ end }}
+</article>
+{{ end }}

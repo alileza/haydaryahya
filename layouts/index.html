@@ -1,0 +1,19 @@
+{{ define "main" }}
+<header class="hero">
+  <h1>{{ .Site.Title }}</h1>
+  <p>{{ .Site.Params.description }}</p>
+</header>
+
+<section>
+  <h2>Articles</h2>
+  <ul class="cards">
+    {{ range (where .Site.RegularPages "Section" "posts").ByDate.Reverse }}
+    <li class="card">
+      <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+      <p class="card-meta">By <strong>{{ .Params.author }}</strong> · {{ .Date.Format "2006-01-02" }}</p>
+      <p><a href="{{ .RelPermalink }}">Read as webpage</a></p>
+    </li>
+    {{ end }}
+  </ul>
+</section>
+{{ end }}

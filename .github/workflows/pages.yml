@@ -21,8 +21,22 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Build static site
-        run: bash scripts/build-site.sh
+      - name: Install build dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y poppler-utils jq
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.148.2'
+          extended: true
+
+      - name: Build Markdown content from PDFs
+        run: bash scripts/build-content.sh
+
+      - name: Build site
+        run: hugo --minify
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
@@ -30,7 +44,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: .
+          path: ./public
 
       - name: Deploy to GitHub Pages
         id: deployment

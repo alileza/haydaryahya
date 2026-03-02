@@ -1,0 +1,6 @@
+baseURL = 'https://haydaryahya.com/'
+languageCode = 'en-us'
+title = 'Haydar Yahya'
+
+[params]
+  description = 'Collected writings by Haydar Yahya'

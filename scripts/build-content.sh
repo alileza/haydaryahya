@@ -1,0 +1,104 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+ROOT_DIR="$(cd "$(dirname "$0")/.." && pwd)"
+PDF_DIR="$ROOT_DIR/pdf"
+POSTS_DIR="$ROOT_DIR/content/posts"
+STATIC_PDF_DIR="$ROOT_DIR/static/pdf"
+META_FILE="$ROOT_DIR/article-meta.tsv"
+
+mkdir -p "$POSTS_DIR" "$STATIC_PDF_DIR"
+find "$POSTS_DIR" -type f -name '*.md' -delete
+rm -f "$STATIC_PDF_DIR"/*.pdf
+
+slugify() {
+  local input="$1"
+  printf '%s' "$input" \
+    | tr '[:upper:]' '[:lower:]' \
+    | sed -E 's/\.[Pp][Dd][Ff]$//' \
+    | sed -E 's/[^a-z0-9]+/-/g' \
+    | sed -E 's/^-+|-+$//g'
+}
+
+escape_toml() {
+  printf '%s' "$1" | sed 's/\\/\\\\/g; s/"/\\"/g'
+}
+
+url_encode() {
+  jq -rn --arg v "$1" '$v|@uri'
+}
+
+file_mtime_iso() {
+  local file_path="$1"
+  if stat -f "%Sm" -t "%Y-%m-%d" "$file_path" >/dev/null 2>&1; then
+    stat -f "%Sm" -t "%Y-%m-%d" "$file_path"
+  else
+    stat -c "%y" "$file_path" | cut -d' ' -f1
+  fi
+}
+
+read_meta_override() {
+  local file_name="$1"
+  local column="$2"
+  [ -f "$META_FILE" ] || return 0
+  awk -F'\t' -v f="$file_name" -v c="$column" '$1==f {print $c; exit}' "$META_FILE"
+}
+
+while IFS= read -r -d '' pdf_path; do
+  file_name="$(basename "$pdf_path")"
+  title="${file_name%.pdf}"
+  slug="$(slugify "$file_name")"
+  encoded_name="$(url_encode "$file_name")"
+
+  file_date="$(file_mtime_iso "$pdf_path")"
+  meta_author="$(pdfinfo "$pdf_path" 2>/dev/null | awk -F': *' '/^Author:/{print $2; exit}' | sed -E 's/^ +| +$//g')"
+  meta_date="$(pdfinfo -isodates "$pdf_path" 2>/dev/null | awk -F': *' '/^(CreationDate|ModDate):/{print $2; exit}' | sed -E 's/^ +| +$//g')"
+  meta_date="${meta_date%%T*}"
+
+  override_author="$(read_meta_override "$file_name" 2)"
+  override_date="$(read_meta_override "$file_name" 3)"
+
+  author_name="${override_author:-${meta_author:-Haydar Yahya}}"
+  authored_date="${override_date:-${meta_date:-$file_date}}"
+  [ -n "$author_name" ] || author_name="Haydar Yahya"
+  [ -n "$authored_date" ] || authored_date="$file_date"
+
+  text_content="$(pdftotext "$pdf_path" - 2>/dev/null || true)"
+
+  body_markdown="$({
+    printf '%s' "$text_content" | python3 -c '
+import re
+import sys
+
+text = sys.stdin.read().replace("\r\n", "\n").replace("\r", "\n").strip()
+if not text:
+    print("(No extractable text was found in this PDF.)")
+    raise SystemExit
+
+paragraphs = re.split(r"\n\s*\n+", text)
+for para in paragraphs:
+    lines = [line.strip() for line in para.split("\n") if line.strip()]
+    if not lines:
+      continue
+    print(" ".join(lines))
+    print()
+'
+    printf '\n[Open original PDF](/pdf/%s)\n' "$encoded_name"
+  })"
+
+  cp "$pdf_path" "$STATIC_PDF_DIR/$file_name"
+
+  cat > "$POSTS_DIR/$slug.md" <<POST_MD
++++
+title = "$(escape_toml "$title")"
+author = "$(escape_toml "$author_name")"
+date = "$(escape_toml "$authored_date")"
+pdf = "/pdf/${encoded_name}"
++++
+
+${body_markdown}
+POST_MD
+
+done < <(find "$PDF_DIR" -maxdepth 1 -type f -name '*.pdf' -print0)
+
+echo "Generated Hugo content from PDFs."
