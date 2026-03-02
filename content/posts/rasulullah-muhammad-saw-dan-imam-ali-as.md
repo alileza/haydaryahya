@@ -16,9 +16,15 @@ Sementara Rasulullah Saw, memberinya nama ‘Ali, bermakna tinggi keutamaannya. 
 
 Dalam Perang Khandaq, yang disebut juga sebagai Perang Ahzab, sempat terjadi duel, satu lawan satu, antara seorang jawara, pendekar kafir Quraisy, ‘Amr bin ‘Abdi-Wud dengan ‘Ali bin Abi Thalib yang saat itu masih belia. Rasulullah Saw, yang khawatir, membekali pedang dan do’a bagi kejayaan ‘Ali.
 
-Sepanjang duel berlangsung, diiringi do’a Rasulullah Saw. ‘Ali layaknya dikelilingi perisai baja melindungi dirinya. ‘Ali memenangkan duel, dengan sekali tebas, membelah tubuh ‘Amr bin ‘Abdi Wud. Terselip kalimat diantara do’a Rasulullah Saw... :“Hari ini, kekafiran yang sempurna berhadapan dengan keimanan yang sempurna”.
+Sepanjang duel berlangsung, diiringi do’a Rasulullah Saw. ‘Ali layaknya dikelilingi perisai baja melindungi dirinya. ‘Ali memenangkan duel, dengan sekali tebas, membelah tubuh ‘Amr bin ‘Abdi Wud. Terselip kalimat diantara do’a Rasulullah Saw...
 
-Sebuah kalimat yang melukiskan iman seorang ‘Ali bin Abi-Thalib dalam pandangan Sang Rasul. Di kalangan bangsa Arab, ungkapan yang masyhur menggambarkan sosok keberanian dan kepahlawanan ‘Ali ‘As, :“Tidak ada laki-laki sejati, kecuali ‘Ali. Tidak ada pedang, selain “Dzulfiqar” (nama pedang ‘Ali, pemberian Rasulullah Saw)”.
+> Hari ini, kekafiran yang sempurna berhadapan dengan keimanan yang sempurna
+
+Sebuah kalimat yang melukiskan iman seorang ‘Ali bin Abi-Thalib dalam pandangan Sang Rasul. Di kalangan bangsa Arab, ungkapan yang masyhur menggambarkan sosok keberanian dan kepahlawanan ‘Ali ‘As,
+
+> Tidak ada laki-laki sejati, kecuali ‘Ali. Tidak ada pedang, selain “Dzulfiqar
+
+(nama pedang ‘Ali, pemberian Rasulullah Saw)”.
 
 Jadilah ‘Ali ‘As, tercatat dalam sejarah Islam, sebagai salah seorang yang selalu berada di garis depan, dalam perjuangan menegakkan Risalah Rasulullah Saw. Sejak wahyu pertama di usia remaja, hingga syahid menjemputnya, pada tgl. 21 malam di bulan Ramadhan, tahun 40 H. Bagaimana tidak !?
 
@@ -46,6 +52,8 @@ Hanya saja, tidak ada Nabi lagi sesudahku”. 2). Sebuah hadits diriwayatkan ole
 
 Terlepas dari adanya perbedaan interpretasi tentang hadits-hadits itu, bagi penulis, kedekatan, kebersamaan ‘Ali yang istimewa dengan Rasulullah Saw dalam berbagai sisinya, pada hakikatnya lebih mulia dan bernilai dari berbagai pujian itu. Apa yang tak tampak dari dirinya, jauh lebih luhur dan mulya.
 
-Pengakuan Imam ‘Ali ‘Alaihis-Salam :”Aku mengikuti Rasulullah, seperti anak unta mengikuti induknya”. :“Aku tidak memiliki ilmu terkait sesuatu apapun, kecuali sampai Rasulullah Saw mengajarkannya padaku”.
+Pengakuan Imam ‘Ali ‘Alaihis-Salam :”Aku mengikuti Rasulullah, seperti anak unta mengikuti induknya”.
+
+> Aku tidak memiliki ilmu terkait sesuatu apapun, kecuali sampai Rasulullah Saw mengajarkannya padaku
 
 Berbeda dengan para Sahabat Nabi pada umumnya, ‘Ali ‘As tidak pernah mengenal ajaran agama, kepercayaan apapun sebelumnya, kecuali yang diajarkan Rasulullah Saw. Begitulah sosok Imam 'Ali 'Alaihis-Salam. Allah telah menetapkan kehendakNya. Alam semesta tak mampu mengingkarinya. Keduanya, ibarat dua buah, dari pohon yang satu (Dari Catatan HY Januari 2017)

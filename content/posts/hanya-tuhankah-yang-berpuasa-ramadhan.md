@@ -56,7 +56,11 @@ Stok barang berlipat ganda di pajang mencolok menggoda pengunjung. Di hari-hari 
 
 Supermarket memperpanjang jam waktu buka sampai tengah malam untuk memenuhi hasrat konsumtif yang menggila. Semua itu, lebih tampak seperti upaya "balas dendam", meledek bulan ramadhan, dibanding sekedar berbuka puasa atau menyambut idul fitri.
 
-Ibaratnya tanpa sadar, kita sedang berkata :"Hai Ramadhan, sebentar lagi kau akan berlalu, kami sudah bersiap mengumbar berbagai keinginan yang selama 30 hari telah kau halangi". Seluruh keluarga kompak. Anak-anak, remaja, pemuda, ayah, ibu, kakek nenek semua sama.
+Ibaratnya tanpa sadar, kita sedang berkata
+
+> Hai Ramadhan, sebentar lagi kau akan berlalu, kami sudah bersiap mengumbar berbagai keinginan yang selama 30 hari telah kau halangi
+
+. Seluruh keluarga kompak. Anak-anak, remaja, pemuda, ayah, ibu, kakek nenek semua sama.
 
 Saling memberi semangat rame-rame ber "jihad" memenuhi gairah yang ditahan selama hanya 30 hari Ramadhan. Yaa, hanya 30 hari dalam setahun. Ramadhan yang mulia itu telah dilecehkan. Disadari atau tidak, kebiasaan buruk yang telah membudaya ini, sampai mempengaruhi perekonomian perdagangan nasional bangsa ini.
 

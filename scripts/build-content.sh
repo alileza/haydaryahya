@@ -79,70 +79,7 @@ while IFS= read -r -d '' pdf_path; do
 
   text_content="$(pdftotext "$pdf_path" - 2>/dev/null || true)"
 
-  body_markdown="$({
-    printf '%s' "$text_content" | python3 -c '
-import re
-import sys
-
-text = sys.stdin.read().replace("\r\n", "\n").replace("\r", "\n").strip()
-if not text:
-    print("(No extractable text was found in this PDF.)")
-    raise SystemExit
-
-# Remove form-feed page markers and obvious standalone page numbers.
-text = text.replace("\f", "\n")
-clean_lines = []
-for raw in text.split("\n"):
-    line = raw.strip()
-    if not line:
-        clean_lines.append("")
-        continue
-    if re.fullmatch(r"\d{1,3}", line):
-        continue
-    if line.startswith("Total output lines:"):
-        continue
-    # Remove decorative separator lines (=====, ------, etc.)
-    if re.fullmatch(r"[=\-_*]{3,}.*", line):
-        clean_lines.append("")
-        continue
-    # Strip leading/trailing separator runs from lines
-    line = re.sub(r"^[=\-]{3,}\s*", "", line)
-    line = re.sub(r"\s*[=\-]{3,}$", "", line)
-    clean_lines.append(line)
-
-text = "\n".join(clean_lines)
-blocks = [b.strip() for b in re.split(r"\n\s*\n+", text) if b.strip()]
-
-def sentence_chunks(block: str):
-    block = re.sub(r"\s+", " ", block).strip()
-    if not block:
-        return []
-    if len(block) <= 360:
-        return [block]
-    # Split long OCR blocks into readable chunks at sentence boundaries.
-    parts = re.split(r"(?<=[.!?])\s+(?=[A-Z0-9\"“(])", block)
-    parts = [p.strip() for p in parts if p.strip()]
-    if len(parts) <= 1:
-        return [block]
-    chunks = []
-    buf = ""
-    for sentence in parts:
-        candidate = f"{buf} {sentence}".strip() if buf else sentence
-        if len(candidate) > 360 and buf:
-            chunks.append(buf)
-            buf = sentence
-        else:
-            buf = candidate
-    if buf:
-        chunks.append(buf)
-    return chunks
-
-for block in blocks:
-    for para in sentence_chunks(block):
-        print(para)
-        print()
-'
-  })"
+    body_markdown="$(printf '%s' "$text_content" | python3 "$ROOT_DIR/scripts/pdf-to-markdown.py")"
 
   cp "$pdf_path" "$STATIC_PDF_DIR/$file_name"
 

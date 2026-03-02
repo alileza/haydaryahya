@@ -48,7 +48,11 @@ Macan jejadian sebagai representasi cara pikir primitif dan terbelakang dihancur
 
 Bahkan sempat bergurau dengan- nya. Katanya suatu kali, malaikat al-maut sudah beberapa kali datang bermaksud menjemputnya. Sang malaikat kembali ba- lik menghadap Allah swt mengabarkan dan bertanya :”Ya Allah, makhlukMu yang satu ini luar biasa semangat hidup dan pengab- diannya pada kemanusiaan, bagaimana I?” Kemudian, Allah menundakan mencabut nyawanya.
 
-Beliau mengakhiri celotehan- nya ini dengan :“Memang masyaaaannnn (maksudnya macan) gak gampang rr\ati.” Beberapa hari menjelang wafatnya, saha- batnya Utomo Dananjaya menjenguknya di rumah sakit. Katanya pada sahabatnya itu :”Biarlah saya lebih dulu kesana mas​ Tom..saya akan lakukan penelitian disana dan memohon Allah mengijinkan kembali
+Beliau mengakhiri celotehan- nya ini dengan
+
+> Memang masyaaaannnn (maksudnya macan) gak gampang rr\ati.
+
+Beberapa hari menjelang wafatnya, saha- batnya Utomo Dananjaya menjenguknya di rumah sakit. Katanya pada sahabatnya itu :”Biarlah saya lebih dulu kesana mas​ Tom..saya akan lakukan penelitian disana dan memohon Allah mengijinkan kembali
 
 kedunia..nanti saya kabarkan secara rinci bagaimana sebenarnya keadaan disana buat teman-teman”.​ Cinta llmu​ Selama puluhan tahun saya bersahabat dengan O.Hashem, tidak pernah saya meli- hat sedikitpun ketertarikannya pada materi.
 
@@ -120,7 +124,11 @@ Kepada Sulis pelantun sholawat Cinta Rasul misalnya, beliau sempat mengatakan .-
 
 Saat itu beliau dirawat dl rumah sakit Sumber Waras*' Grogol, Jakarta. Layaknya Rumah Sakit Nasrani, tentu saja banyak suster perawat kristiani. Dengan tulus dia memuji para suster perawat yang kadang mengerumuninya, katanya :”Kalian​ ini orang-orang yang sangat baik mengabdi pada kemanusiaan.
 
-Kelak bila kalian tidak berada di sorga...maka saya akan demo prates kepada Tuhan”.​ Di hari-hari terakhir hidupnya di lantai lima, rumah Sakit MMC, Kuningan, beliau didera sakit yang tak tertahankan. Dia bertanya pada perawat :"Mbak tau gak kenapa jendela itu ditutup mati !?”. Perawat itu menjawab :”Yaa, memang sudah begitu pak dokter”.
+Kelak bila kalian tidak berada di sorga...maka saya akan demo prates kepada Tuhan”.​ Di hari-hari terakhir hidupnya di lantai lima, rumah Sakit MMC, Kuningan, beliau didera sakit yang tak tertahankan. Dia bertanya pada perawat
+
+> Mbak tau gak kenapa jendela itu ditutup mati !?
+
+. Perawat itu menjawab :”Yaa, memang sudah begitu pak dokter”.
 
 Lanjut O.Hashem :”Jendela itu ditutup mati, agar pasien yang mengalami sakit seperti saya ini, tidak meloncat di
 

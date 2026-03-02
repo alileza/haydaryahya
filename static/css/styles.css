@@ -29,6 +29,19 @@ body {
   max-width: 680px;
   margin: 0 auto;
   padding: 16px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.navbar-home {
+  font-size: 0.875rem;
+  color: var(--muted);
+  text-decoration: none;
+}
+
+.navbar-home:hover {
+  color: var(--accent);
 }
 
 .navbar-brand {
@@ -382,6 +395,22 @@ a:hover {
   color: var(--text);
 }
 
+/* ---- Blockquote / pull quote ---- */
+.article-body blockquote {
+  margin: 2rem 0;
+  padding: 0 0 0 30px;
+  border-left: 3px solid var(--text);
+}
+
+.article-body blockquote p {
+  font-family: var(--font-serif);
+  font-size: 1.5rem;
+  line-height: 1.6;
+  color: var(--muted);
+  font-style: italic;
+  margin-bottom: 0;
+}
+
 /* ---- Section divider ---- */
 .article-body hr {
   border: none;
@@ -428,5 +457,9 @@ a:hover {
 
   .drop-cap > p:first-of-type::first-letter {
     font-size: 2.75rem;
+  }
+
+  .article-body blockquote p {
+    font-size: 1.25rem;
   }
 }

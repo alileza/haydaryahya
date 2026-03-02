@@ -112,7 +112,11 @@ Dulu, antar pengikut mazhab, saling memperolok, serang menyerang bahkan saling m
 
 Dewasa ini, siapa itu Taliban, Al-Qaedah, ISIS, Takfiri dari berbagai kelompok, yang saling membunuh, di Mesir, Afghanistan, Pakistan, Iraq, Libia, Suria, tambah lagi sekarang di Yaman. Coba dicermati, siapa yang membunuh dan siapa yang dibunuh !? Semuanya mengaku sebagai ahlus-sunnah wal jama'ah !
 
-Bagaimana remaja-remaja kita tidak bingung dan cenderung menjauh dari agama, bila wajah kita carut marut seperti itu ?! :"Gue gak ikutan bro kalo kayak gitu, capek deh perang melulu" kata mereka.
+Bagaimana remaja-remaja kita tidak bingung dan cenderung menjauh dari agama, bila wajah kita carut marut seperti itu ?!
+
+> Gue gak ikutan bro kalo kayak gitu, capek deh perang melulu
+
+kata mereka.
 
 Bergemanya Islam Berkemajuan yang diusung Muhamadiyah, Islam Nusantara yang diusung NU, selayaknya sebuah ajakan otokritik, telah memberi secercah harapan bagi remaja pemuda Indonesia bahwa ada alternatif pilihan dalam berIslam yang sejuk, cinta ilmu pengetahuan, cinta kerukunan, toleransi, saling menghormati, menghargai perbedaan satu sama lain yang rahmatan lil'alamin dan bersama mengabdi bagi agama, bangsa dan tanah air tercinta.
 

@@ -84,4 +84,4 @@ Dalam perkembangannya selama lebih 1000 tahun, membuktikan penafsiran ekstensif 
 
 Jelaslah, kecaman atau pujian dalam Al Qur’an atas sebuah bangsa, kaum dstnya, berhubungan dengan tingkah laku amal perbuatannya. Nama-nama bangsa, suku, nasab dan bahasa, manusia juga yang memilih dan menetapkannya. Sekedar nama. Ibarat label kemasan dari sebuah produk. Baik buruk tergantung pada isinya.
 
-“What's in a name? That which we call a rose by any other name would smell as sweet." “Apakah arti sebuah nama ? Mawar, kita beri nama apa saja, akan tetap harum” (Shakespeare). Seorang Kiyai Mbeling, punya ungkapan tuntas, sederhana, yang tidak kalah memicu berpikir akal sehat. Sang kiyai berseloroh, bertanya pada santrinya : ”Pilih kutang atau isinya!?”
+> “What's in a name? That which we call a rose by any other name would smell as sweet." “Apakah arti sebuah nama ? Mawar, kita beri nama apa saja, akan tetap harum” (Shakespeare). Seorang Kiyai Mbeling, punya ungkapan tuntas, sederhana, yang tidak kalah memicu berpikir akal sehat. Sang kiyai berseloroh, bertanya pada santrinya : ”Pilih kutang atau isinya!?”
