@@ -4,7 +4,7 @@ author = "Haydar Yahya"
 date = "2018-02-15"
 pdf = "/pdf/ISLAM%2C%20NAMA%20GENERIK%20SEMUA%20AGAMA%20SAMAWI.pdf"
 excerpt = "01.59, February 15 - 2018 Islam, Nama Generik Semua Agama Samawi ( Tinjauan Dari Perspektif Al-Qur'an, Bukan tinjauan Fiqih) (Seyogyanya para pemeluk agama…"
-summary = "01.59, February 15 - 2018 Islam, Nama Generik Semua Agama Samawi ( Tinjauan Dari Perspektif Al-Qur'an, Bukan tinjauan Fiqih) (Seyogyanya para pemeluk agama Ahlul-Kitab (Yahudi, Nasrani) menyimak Al-Qur’an. Karena Al-Qur’an juga untuk mereka."
+summary = "Kajian mendalam dari perspektif Al-Qur'an yang menunjukkan bahwa \"Islam\" bukan nama eksklusif satu agama, melainkan nama generik bagi semua agama samawi — merujuk pada sikap berserah diri kepada Allah. Al-Qur'an mengakui kebenaran semua Nabi dan Kitab terdahulu, menyapa Ahlul-Kitab dengan penuh hormat, dan melarang paksaan dalam beragama."
 readingTime = 17
 +++
 

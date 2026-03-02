@@ -4,7 +4,7 @@ author = "Haydar Yahya"
 date = "2017-01-01"
 pdf = "/pdf/Rasulullah%20Muhammad%20saw%20dan%20Imam%20Ali%20as.docx.pdf"
 excerpt = "Rasulullah Muhammad Shallallahu’Alaihi wa-Alihi wa-Sallam dan Imam ‘Ali bin Abi-Thalib ‘Alahis-Salam Rasulullah Shallallahu ‘Alaihi wa-Alihi wa-Sallam dan…"
-summary = "Rasulullah Muhammad Shallallahu’Alaihi wa-Alihi wa-Sallam dan Imam ‘Ali bin Abi-Thalib ‘Alahis-Salam Rasulullah Shallallahu ‘Alaihi wa-Alihi wa-Sallam dan Imam ‘Ali ‘Alaihis-Salam, keduanya memiliki garis keturunan dan leluhur yang sama."
+summary = "Tulisan tentang kedekatan luar biasa antara Rasulullah SAW dan Imam Ali AS — dari garis keturunan yang sama, dididik langsung oleh Nabi sejak buaian, hingga menjadi pejuang utama dalam menegakkan Islam. Ali tidak pernah mengenal ajaran selain yang diajarkan Rasulullah, menjadikan keduanya ibarat dua buah dari pohon yang satu."
 readingTime = 3
 +++
 

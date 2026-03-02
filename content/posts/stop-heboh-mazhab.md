@@ -4,7 +4,7 @@ author = "Haydar Yahya"
 date = "2015-08-17"
 pdf = "/pdf/Stop%20Heboh%20Mazhab.pdf"
 excerpt = "Bagi yang tertarik memperluas wawasan.. Moga bermanfaat catatan dibawah ini : #SAVE ISLAM Mengenang 70 thn Kemerdekaan Indonesia, 17Agustus 2015 POTRET UMMAT…"
-summary = "Bagi yang tertarik memperluas wawasan.. Moga bermanfaat catatan dibawah ini : #SAVE ISLAM Mengenang 70 thn Kemerdekaan Indonesia, 17Agustus 2015 POTRET UMMAT Stop Heboh Mazhab Sunni Syi'ah Tanpa Ujung ..."
+summary = "Seruan untuk menghentikan perseteruan Sunni-Syi'ah yang tanpa ujung. Penulis menunjukkan bahwa mazhab adalah hasil ijtihad manusia yang bisa berubah, sedangkan Islam adalah wahyu ilahi yang mutlak — keduanya tidak boleh dicampuradukkan. Para ulama dunia, termasuk Syaikhul Azhar, telah mengakui Syi'ah Ja'fari sebagai mazhab yang sah dalam Islam."
 readingTime = 10
 +++
 

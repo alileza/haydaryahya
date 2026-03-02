@@ -4,7 +4,7 @@ author = "Haydar Yahya"
 date = "2026-03-02"
 pdf = "/pdf/Bahagia%20dihari%20ke7.docx.pdf"
 excerpt = "“Bahagia dihari ke 7”​ (haydar yahya diilhami dari kisah nyata) Is, seorang penyayang kucing yang sulit dicari tandingannya. Sebagai karyawan harian dengan…"
-summary = "“Bahagia dihari ke 7”​ (haydar yahya diilhami dari kisah nyata) Is, seorang penyayang kucing yang sulit dicari tandingannya. Sebagai karyawan harian dengan penghasilan pas-pasan Rp 100. Ribu.- per hari, ia sisihkan Rp 3.000.- untuk enam ekor kucing kecintaannya."
+summary = "Cerpen yang terinspirasi kisah nyata tentang Is, seorang karyawan harian pencinta kucing yang rela mengorbankan kebutuhan keluarganya demi kucing-kucingnya. Ketika semua kucingnya mati satu persatu, kesedihan mendalam justru membawanya pada pencerahan spiritual di malam ketujuh — bahwa yang perlu disembuhkan bukan kucingnya, melainkan dirinya sendiri."
 readingTime = 4
 +++
 

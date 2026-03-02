@@ -4,7 +4,7 @@ author = "Haydar Yahya"
 date = "2026-03-02"
 pdf = "/pdf/Hanya%20Tuhankah%20Yang%20Berpuasa%20Ramadhan.docx.pdf"
 excerpt = "Renungan Ramadhan Kariem Hanya Tuhan Kah Yang Berpuasa Ramadhan !? Seruan Iklan Telah Mengalahkan Seruan Tuhan.. Bukan hanya Islam mengajarkan amalan ibadah…"
-summary = "Renungan Ramadhan Kariem Hanya Tuhan Kah Yang Berpuasa Ramadhan !? Seruan Iklan Telah Mengalahkan Seruan Tuhan.. Bukan hanya Islam mengajarkan amalan ibadah puasa. Hampir semua agama dan kepercayaan mengajarkan berpuasa dengan berbagai tata caranya masing-masing."
+summary = "Renungan kritis tentang bagaimana umat Islam justru menjadikan bulan Ramadhan sebagai ajang konsumtif dan balas dendam nafsu. Seruan iklan telah mengalahkan seruan Tuhan — harga barang melonjak, belanja meningkat, dan mall penuh sesak. Penulis mempertanyakan: bila puasa berarti menahan diri, siapakah sebenarnya yang berpuasa?"
 readingTime = 5
 +++
 

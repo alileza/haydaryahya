@@ -4,7 +4,7 @@ author = "Haydar Yahya"
 date = "2009-02-04"
 pdf = "/pdf/O%20HASHEM%20in%20MEMORIUM.pdf"
 excerpt = "O.HASHEM in MEMORIUM​ (Seorang Laki-Laki Sejati Penuh Warna) (Gorontalo, Sulawesi Utara 28 Januari 1935 - Jakarta, 24 Januari 2009)​ “...ibarat pohon yang…"
-summary = "O.HASHEM in MEMORIUM​ (Seorang Laki-Laki Sejati Penuh Warna) (Gorontalo, Sulawesi Utara 28 Januari 1935 - Jakarta, 24 Januari 2009)​ “...ibarat pohon yang berbunga, berbuah, meski hidup dalam kemarau berkepanjangan”.​ Laki-laki ini, lain dari kebanyakan laki-Iaki."
+summary = "Catatan mengenang O. Hashem (1935–2009), seorang dokter, penulis, dan intelektual muslim yang hidup sederhana namun kaya karya. Dari memimpin SMP di usia 17 tahun, memburu harimau di pedalaman Lampung, hingga menulis buku-buku kontroversial seperti \"Saqifah\" — beliau menjalani hidup dengan keberanian, humor, dan kecintaan tanpa batas pada ilmu dan kemanusiaan."
 readingTime = 10
 +++
 

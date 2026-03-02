@@ -4,7 +4,7 @@ author = "Haydar Yahya"
 date = "2020-01-01"
 pdf = "/pdf/C%20I%20N%20T%20A.pdf"
 excerpt = "CINTA yang diabadikan dalam al-quran Cinta selalu menarik sebagai objek cerita. Banyak penyair, sastrawan berimajinasi menciptakan syair, puisi, novel, roman,…"
-summary = "CINTA yang diabadikan dalam al-quran Cinta selalu menarik sebagai objek cerita. Banyak penyair, sastrawan berimajinasi menciptakan syair, puisi, novel, roman, qoshidah, nasyid terkait cinta. Umumnya fiktif. Sekedar imajinasi sang penyair."
+summary = "Melalui kisah Nabi Zakaria dalam Al-Qur'an, tulisan ini merenungkan hakikat cinta sejati. Di usia tuanya yang renta, Zakaria tidak memohon umur panjang, melainkan memohon penerus yang akan membimbing orang-orang yang dicintainya. Bagi para pencinta sejati, kematian bukan akhir melainkan pertemuan dengan Kekasih yang dirindukan."
 readingTime = 4
 +++
 

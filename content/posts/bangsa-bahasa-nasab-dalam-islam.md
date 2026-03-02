@@ -4,7 +4,7 @@ author = "Haydar Yahya"
 date = "2022-01-01"
 pdf = "/pdf/Bangsa%20Bahasa%20Nasab%20Dalam%20Islam.pdf"
 excerpt = "Bangsa, Bahasa dan Nasab Akhir-akhir ini issue bangsa, bahasa, dan nasab, sempat menyibukkan banyak orang. Siapa yang unggul ? Konon, bahasa Arab, bangsa Arab…"
-summary = "Bangsa, Bahasa dan Nasab Akhir-akhir ini issue bangsa, bahasa, dan nasab, sempat menyibukkan banyak orang. Siapa yang unggul ? Konon, bahasa Arab, bangsa Arab adalah pilihan Tuhan. Di akhirat kelak, bahasa Arab yang berlaku. Malaikat berbahasa Arab. Penghuni surga berbahasa Arab."
+summary = "Tulisan ini membantah klaim bahwa bangsa Arab, bahasa Arab, atau keturunan tertentu memiliki kedudukan lebih tinggi dalam Islam. Melalui ayat-ayat Al-Qur'an, penulis menunjukkan Islam adalah agama anti-rasis yang menilai manusia berdasarkan ketakwaan, bukan suku, bahasa, atau nasab."
 readingTime = 4
 +++
 

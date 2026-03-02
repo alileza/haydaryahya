@@ -4,7 +4,7 @@ author = "Haydar Yahya"
 date = "2013-05-01"
 pdf = "/pdf/AKAL%20dlm%20Al%20Quran.docx.pdf"
 excerpt = "catatan Al ‘aql menurut Al Munjid : \"Nurun ruhaniyyun bihi tudriku an nafs ma la tudrikuhu bil hawas, wa qod summiya al’aqlu aqlan li annahu ya’qilu shohibahu…"
-summary = "catatan Al ‘aql menurut Al Munjid : \"Nurun ruhaniyyun bihi tudriku an nafs ma la tudrikuhu bil hawas, wa qod summiya al’aqlu aqlan li annahu ya’qilu shohibahu ‘anit-twarrathi fil mahalik ay yahbisuhu\" “Nur cahaya ruhani yang dimiliki seseorang yang dengannya dapat menjangkau…"
+summary = "Tulisan ini mengupas makna al-'aql dalam Al-Qur'an yang berbeda jauh dari pengertian \"akal\" dalam bahasa Indonesia. Menurut Al-Qur'an, akal adalah cahaya ruhani yang membedakan manusia dari makhluk lain dan justru menuntun kepada keimanan — bukan memisahkannya. Pada puncaknya, akal yang benar akan membawa manusia menuju Allah SWT."
 readingTime = 3
 +++
 
