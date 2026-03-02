@@ -3,7 +3,7 @@ title = "Rasulullah Muhammad saw dan Imam Ali as.docx"
 author = "Haydar Yahya"
 date = "2026-03-02"
 pdf = "/pdf/Rasulullah%20Muhammad%20saw%20dan%20Imam%20Ali%20as.docx.pdf"
-excerpt = "Rasulullah Muhammad Shallallahu’Alaihi wa-Alihi wa-Sallam dan Imam ‘Ali bin Abi-Thalib ‘Alahis-Salam Rasulullah Shallallahu ‘Alaihi wa-Alihi wa-Sallam dan Imam…"
+excerpt = "Rasulullah Muhammad Shallallahu’Alaihi wa-Alihi wa-Sallam dan Imam ‘Ali bin Abi-Thalib ‘Alahis-Salam Rasulullah Shallallahu ‘Alaihi wa-Alihi wa-Sallam dan…"
 +++
 
 Rasulullah Muhammad Shallallahu’Alaihi wa-Alihi wa-Sallam dan Imam ‘Ali bin Abi-Thalib ‘Alahis-Salam

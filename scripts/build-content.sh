@@ -125,7 +125,16 @@ for block in blocks:
 
   cp "$pdf_path" "$STATIC_PDF_DIR/$file_name"
 
-  excerpt="$(printf '%s' "$body_markdown" | sed '/^$/d' | head -3 | tr '\n' ' ' | sed -E 's/^ +| +$//g' | cut -c1-160 | sed -E 's/ [^ ]*$/…/')"
+  excerpt="$(printf '%s' "$body_markdown" | python3 -c '
+import sys
+lines = [l.strip() for l in sys.stdin if l.strip()]
+text = " ".join(lines[:3])[:160].strip()
+if len(text) > 0:
+    i = text.rfind(" ")
+    if i > 0 and len(" ".join(lines[:3])) > 160:
+        text = text[:i] + "\u2026"
+print(text)
+')"
 
   cat > "$POSTS_DIR/$slug.md" <<POST_MD
 +++
