@@ -17,6 +17,7 @@ slugify() {
     | tr '[:upper:]' '[:lower:]' \
     | sed -E 's/\.[Pp][Dd][Ff]$//' \
     | sed -E 's/\.docx//g' \
+    | sed -E 's/_[0-9]{6}_[0-9]{6}$//' \
     | sed -E 's/[^a-z0-9]+/-/g' \
     | sed -E 's/^-+|-+$//g'
 }
@@ -79,7 +80,13 @@ while IFS= read -r -d '' pdf_path; do
 
   text_content="$(pdftotext "$pdf_path" - 2>/dev/null || true)"
 
+  # For scanned/image PDFs, check for manual transcription
+  manual_file="$ROOT_DIR/content/manual/$slug.md"
+  if [ -z "$(printf '%s' "$text_content" | tr -d '[:space:]')" ] && [ -f "$manual_file" ]; then
+    body_markdown="$(cat "$manual_file")"
+  else
     body_markdown="$(printf '%s' "$text_content" | python3 "$ROOT_DIR/scripts/pdf-to-markdown.py")"
+  fi
 
   cp "$pdf_path" "$STATIC_PDF_DIR/$file_name"
 
